@@ -60,6 +60,31 @@ These were set to 0 instead of being dropped, so new customers stay in the sampl
   a real deployment should review whether age can be used to target offers.
 - Scaling and any resampling happen inside the model pipeline, never before
   the train/test split, to avoid leakage.
+
+
+## Modelling
+- **Split:** 80/20 stratified (churn rate 26.5% in both). Models compared with
+  5-fold cross-validation on the training set only; test set used once.
+- **Imbalance:** handled with class weights, not SMOTE.
+- **Results (5-fold CV):**
+
+| Model | ROC-AUC | PR-AUC | Recall | Precision |
+|---|---|---|---|---|
+| Logistic Regression | 0.861 | 0.683 | 0.812 | 0.538 |
+| Random Forest | 0.858 | 0.675 | 0.736 | 0.576 |
+
+  (Baseline "predict nobody": PR-AUC 0.265.)
+- **Finding:** complex models did not beat a well-prepared logistic regression,
+  so the simpler, explainable model was chosen.
+- **Feature testing:** `Abs Charge Change` was dropped after an ablation test
+  showed no gain. `Protection Count` was excluded from the logistic model
+  because it is an exact sum of four other features.
+- **Calibration:** class weights inflated probabilities (mean 0.41 vs actual
+  0.27). Platt scaling fixed this (Brier 0.1615 to 0.1338).
+- **Test set (calibrated):** ROC-AUC 0.853, PR-AUC 0.662. Contacting the top
+  10% of customers by risk reaches a group where 78% actually churn.
+
+
   
 ## Status
-Phase 3 of 7 complete.
+Phase 4 of 7 complete.
