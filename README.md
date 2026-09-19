@@ -45,5 +45,21 @@ These were set to 0 instead of being dropped, so new customers stay in the sampl
 - **Gender and phone service show no significant link to churn.**
 - All tests were run with Bonferroni correction (19 tests, threshold 0.0026).
 
+
+## Feature engineering
+- **28 model features** built from the cleaned data (`data/processed/telco_features.csv`).
+- **Engineered:** tenure buckets (to capture the early-churn cliff), protection
+  add-on count, and absolute bill change (current bill vs lifetime average).
+- **Tested and dropped:** average monthly revenue (r = 0.996 with monthly charges),
+  monthly-to-total ratio (r = 0.999 with 1/tenure) and signed bill change (r = 0.002).
+- **Excluded:** Gender (no significant link), Phone Service (redundant with
+  Multiple Lines), and location fields.
+- **Limitation:** the dataset has no usage history, so usage-trend features
+  could not be built.
+- **Fairness note:** Senior Citizen is kept because it shows a real signal, but
+  a real deployment should review whether age can be used to target offers.
+- Scaling and any resampling happen inside the model pipeline, never before
+  the train/test split, to avoid leakage.
+  
 ## Status
-Phase 2 of 7 complete.
+Phase 3 of 7 complete.
