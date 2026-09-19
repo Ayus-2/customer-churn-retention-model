@@ -1,0 +1,20 @@
+covariate,exp(coef),exp(coef) lower 95%,exp(coef) upper 95%,p
+Payment Method_Electronic check,1.7677,1.5372,2.0329,0.0
+Payment Method_Mailed check,1.755,1.4768,2.0857,0.0
+Internet Service_Fiber optic,1.3854,1.2021,1.5965,0.0
+Paperless Billing,1.1896,1.065,1.3289,0.0021
+Streaming TV,0.9599,0.8628,1.0679,0.4518
+Payment Method_Credit card (automatic),0.9212,0.7713,1.1003,0.3654
+Multiple Lines_No phone service,0.8849,0.7262,1.0783,0.2254
+Senior Citizen,0.8727,0.7823,0.9736,0.0147
+Streaming Movies,0.8526,0.7657,0.9494,0.0037
+Device Protection,0.7182,0.645,0.7996,0.0
+Partner,0.6973,0.63,0.7718,0.0
+Tech Support,0.6719,0.591,0.7639,0.0
+Multiple Lines_Yes,0.6321,0.5693,0.7019,0.0
+Online Backup,0.5397,0.4849,0.6008,0.0
+Online Security,0.5386,0.4729,0.6134,0.0
+Internet Service_No,0.353,0.2787,0.4471,0.0
+Dependents,0.336,0.2741,0.4118,0.0
+Contract_One year,0.1995,0.1679,0.2372,0.0
+Contract_Two year,0.0418,0.0303,0.0576,0.0
