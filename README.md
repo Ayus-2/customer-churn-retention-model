@@ -110,8 +110,31 @@ A/B test (contacted group vs holdout). The model predicts who will churn, not wh
 will respond to an offer (uplift modelling would address this). CLTV is a
 pre-computed field with undocumented methodology.
 
+## Survival analysis
+Kaplan-Meier curves and a Cox proportional hazards model (duration = tenure,
+event = churn; 7,032 customers, 1,869 churn events; customers who have not
+churned are treated as censored).
 
+- **Month-to-month customers have a median lifetime of 35 months**; only 13%
+  remain after 72 months. One-year and two-year contracts do not reach a median
+  (57% and 94% remain at 72 months).
+- **A one-year contract delays churn but wears off:** monthly churn rises from
+  0.08% in year one to 1.06% in years five to six, suggesting contract expiry
+  is a trigger worth testing.
+- **Fiber optic** median lifetime is 65 months versus not reached for DSL.
+  Electronic check median lifetime is 47 months.
+- **Cox hazard ratios** (vs month-to-month / DSL / bank transfer): two-year
+  contract 0.04, one-year 0.20, dependents 0.34, online security 0.54,
+  fiber optic 1.39, electronic check 1.77. Concordance about 0.87 (in-sample).
+- **Assumption check:** the proportional-hazards assumption fails for contract
+  type (hazard ratio month-to-month vs one-year falls from 43 to 2.5 over
+  time). A model stratified by contract gives near-identical hazard ratios for
+  all other factors.
+- **Excluded from the Cox model:** tenure-derived columns (they define the time
+  axis) and Monthly Charges (collinear with services; the fit did not converge).
+- **Limitations:** the data is a snapshot with unknown sampling, so absolute
+  survival levels may be optimistic; segment comparisons are more reliable.
 
   
 ## Status
-Phase 5 of 7 complete.
+Phase 6 of 7 complete.
