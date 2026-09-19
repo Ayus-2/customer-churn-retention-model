@@ -84,7 +84,34 @@ These were set to 0 instead of being dropped, so new customers stay in the sampl
 - **Test set (calibrated):** ROC-AUC 0.853, PR-AUC 0.662. Contacting the top
   10% of customers by risk reaches a group where 78% actually churn.
 
+## Economics layer
+Expected value per customer = P(churn) × offer success rate × value saved − offer cost.
+
+**Assumptions (not measured from data):** $5 call + 20% discount for 6 months;
+25% offer success rate (46% of churners cite price/offer-related reasons);
+value saved = 30% of CLTV (CLTV treated as revenue).
+
+**Results on 1,409 held-out customers (100-customer budget):**
+| Ranking | Net profit | ROI |
+|---|---|---|
+| By churn probability | $14,485 | 144.5% |
+| **By expected value** | **$18,412** | **203.4%** |
+| Random | -$58 | -0.7% |
+
+- Only 41% of customers have positive expected value; contacting everyone loses money.
+- Profit-optimal threshold is 0.23; the F1-optimal threshold (0.34) leaves ~$2,800
+  on the table and the default 0.5 leaves ~$8,000.
+- A per-customer EV > 0 rule beats any single global threshold ($41,498 vs $36,846).
+- Break-even offer success rate: 8.2% for the EV-ranked top 100.
+- Sensitivity analysis across success rates (10-40%) and margins (20-40%) included.
+
+**Limitations:** the success rate is an assumption and should be measured with an
+A/B test (contacted group vs holdout). The model predicts who will churn, not who
+will respond to an offer (uplift modelling would address this). CLTV is a
+pre-computed field with undocumented methodology.
+
+
 
   
 ## Status
-Phase 4 of 7 complete.
+Phase 5 of 7 complete.
