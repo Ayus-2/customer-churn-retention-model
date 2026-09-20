@@ -1,0 +1,1410 @@
+CustomerID,churn_probability,churn_actual,CLTV,Monthly Charges,reason_1,reason_2,reason_3
+4376-KFVRS,0.0719,0,4842,114.05,Fiber optic internet,No dependents,Paperless billing
+2754-SDJRD,0.6534,0,5157,100.15,Fiber optic internet,New customer (8 months),Month-to-month contract
+9917-KWRBE,0.1065,0,2894,78.35,No dependents,Paperless billing,No tech support
+0365-GXEZS,0.4078,0,2831,78.2,Fiber optic internet,Month-to-month contract,No dependents
+9385-NXKDA,0.0414,0,4324,82.65,No dependents,Paperless billing,No tech support
+4686-UXDML,0.5707,0,2113,99.85,Fiber optic internet,Month-to-month contract,No dependents
+2227-JRSJX,0.4219,0,5324,99.15,Fiber optic internet,Month-to-month contract,No dependents
+4830-FAXFM,0.0366,0,2378,24.1,Month-to-month contract,Paperless billing,Relatively short tenure (19 months)
+1830-IPXVJ,0.0024,0,6108,19.75,No tech support,No online security,No online backup
+4690-LLKUA,0.3122,1,3797,45.05,Month-to-month contract,No dependents,Pays by electronic check
+5804-HYIEZ,0.1276,0,4583,106.05,Fiber optic internet,Month-to-month contract,Pays by electronic check
+2388-LAESQ,0.0749,0,4796,114.85,Fiber optic internet,No dependents,Paperless billing
+5533-RJFTJ,0.2032,0,5214,30.2,Month-to-month contract,No dependents,Paperless billing
+4706-AXVKM,0.637,1,5118,84.8,Fiber optic internet,Month-to-month contract,New customer (11 months)
+0997-YTLNY,0.0312,0,3749,48.8,Month-to-month contract,Relatively short tenure (19 months),No online security
+7971-HLVXI,0.0235,0,6202,84.5,Fiber optic internet,Paperless billing,No tech support
+7337-CINUD,0.0093,0,5206,19.5,New customer (8 months),No tech support,No online security
+1379-FRVEB,0.2592,0,4602,91.0,Fiber optic internet,Month-to-month contract,Relatively short tenure (15 months)
+4753-PADAS,0.2527,0,5027,105.7,Fiber optic internet,No dependents,Paperless billing
+5701-GUXDC,0.1083,0,2519,35.4,No dependents,No tech support,No online backup
+7235-NXZCP,0.7504,1,5378,74.85,New customer (2 months),Fiber optic internet,Month-to-month contract
+0668-OGMHD,0.2969,0,3766,28.5,Month-to-month contract,No dependents,Pays by electronic check
+2812-REYAT,0.0458,0,5579,20.05,No dependents,Paperless billing,No tech support
+8779-YIQQA,0.0116,0,3243,19.8,No tech support,No online security,Relatively short tenure (21 months)
+9701-CDXHR,0.2608,0,5187,69.15,Fiber optic internet,Month-to-month contract,No dependents
+7130-CTCUS,0.2184,0,3324,54.55,Month-to-month contract,No dependents,Relatively short tenure (16 months)
+1894-IGFSG,0.5242,1,3161,89.25,Fiber optic internet,Month-to-month contract,No dependents
+0871-URUWO,0.7097,1,2003,102.25,Fiber optic internet,Month-to-month contract,No dependents
+0057-QBUQH,0.0063,0,4797,25.1,Pays by electronic check,Paperless billing,No tech support
+9611-CTWIH,0.8373,1,3591,89.45,New customer (3 months),Fiber optic internet,Month-to-month contract
+8058-DMYRU,0.4612,0,5232,90.05,Fiber optic internet,Month-to-month contract,No dependents
+5351-QESIO,0.1851,0,4276,24.2,New customer (1 month),Month-to-month contract,No tech support
+4302-ZYFEL,0.0056,0,5366,20.55,Paperless billing,No tech support,No online security
+6134-KWTBV,0.0117,0,5822,23.4,No dependents,No tech support,No online security
+2034-GDRCN,0.8412,1,4157,90.4,New customer (2 months),Fiber optic internet,Month-to-month contract
+9544-PYPSJ,0.1166,0,5868,96.1,Fiber optic internet,Month-to-month contract,Paperless billing
+4208-UFFGW,0.4168,1,5900,44.95,New customer (2 months),Month-to-month contract,No dependents
+9537-JALFH,0.002,0,6058,19.9,No tech support,No online security,No online backup
+4415-IJZTP,0.8114,1,2016,74.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+4701-MLJPN,0.1836,1,2933,55.25,Month-to-month contract,No dependents,Pays by electronic check
+7515-LODFU,0.0072,0,4042,20.3,No dependents,No tech support,No online security
+4927-WWOOZ,0.8787,0,4889,91.45,New customer (2 months),Fiber optic internet,Month-to-month contract
+4067-HLYQI,0.311,0,4860,70.4,Fiber optic internet,Month-to-month contract,No dependents
+6184-DYUOB,0.3652,0,2941,19.6,New customer (3 months),Month-to-month contract,No dependents
+9209-NWPGU,0.0496,0,5827,65.4,No dependents,Pays by electronic check,No online backup
+9851-KIELU,0.5337,1,5803,110.1,Fiber optic internet,New customer (10 months),Month-to-month contract
+3199-XGZCY,0.664,0,2332,75.25,Fiber optic internet,New customer (8 months),Month-to-month contract
+4226-KKDON,0.3612,0,3804,66.65,New customer (8 months),Month-to-month contract,No dependents
+1085-LDWAM,0.0056,0,5188,20.35,Paperless billing,No tech support,No online security
+6825-UYPFK,0.3708,1,2115,75.6,Fiber optic internet,Month-to-month contract,No dependents
+1767-CJKBA,0.0104,0,6025,25.1,No dependents,No tech support,No online security
+7181-BQYBV,0.8766,1,4811,102.45,New customer (1 month),Fiber optic internet,Month-to-month contract
+0178-CIIKR,0.2395,0,5949,19.95,New customer (3 months),Month-to-month contract,No dependents
+4256-ZWTZI,0.1193,0,2789,51.0,New customer (5 months),Month-to-month contract,Paperless billing
+9537-VHDTA,0.0954,0,3699,51.2,New customer (1 month),Month-to-month contract,No tech support
+2754-XBHTB,0.5595,1,3847,77.65,Fiber optic internet,New customer (9 months),Month-to-month contract
+5975-BAICR,0.0226,0,2504,63.7,Paperless billing,No tech support,No online backup
+3301-VKTGC,0.0271,0,4380,85.5,Fiber optic internet,Paperless billing,No tech support
+2877-VDUER,0.0261,0,5691,40.9,No online security,No online backup,
+7717-BICXI,0.0025,0,4020,20.55,No tech support,No online security,No online backup
+0562-FGDCR,0.0037,0,4703,74.55,,,
+3705-PSNGL,0.0418,1,5398,20.4,No dependents,Pays by electronic check,Paperless billing
+0048-LUMLS,0.063,0,5263,91.2,Fiber optic internet,No tech support,No online security
+6497-TILVL,0.0617,0,3097,50.7,New customer (7 months),Month-to-month contract,No tech support
+2108-YKQTY,0.3665,1,4930,50.7,New customer (4 months),Month-to-month contract,No dependents
+3658-KIBGF,0.4747,1,2833,54.9,New customer (1 month),Month-to-month contract,No dependents
+5482-NUPNA,0.3024,1,5730,60.4,New customer (4 months),Month-to-month contract,No dependents
+7410-KTVFV,0.2782,1,2815,49.55,Month-to-month contract,No dependents,Relatively short tenure (18 months)
+9033-EOXWV,0.1979,1,4149,74.05,New customer (12 months),No dependents,No online security
+8821-XNHVZ,0.7897,1,2943,80.05,New customer (1 month),Fiber optic internet,Month-to-month contract
+8224-KDLKN,0.0025,0,4275,25.0,No tech support,No online security,No online backup
+4825-FUREZ,0.0211,0,5940,20.25,No dependents,Pays by electronic check,No tech support
+7534-BFESC,0.5403,1,2018,76.1,Fiber optic internet,Month-to-month contract,No dependents
+9138-EFSMO,0.0636,0,4237,78.95,Fiber optic internet,No tech support,No online security
+4227-OJHAL,0.0157,0,4156,73.0,Paperless billing,No tech support,No device protection
+7279-NMVJC,0.0464,0,2093,19.9,No dependents,Relatively short tenure (17 months),No tech support
+8591-TKMZH,0.022,0,4952,111.1,Fiber optic internet,Paperless billing,
+9283-LZQOH,0.5816,1,3687,74.4,Fiber optic internet,Month-to-month contract,No dependents
+3594-IVHJZ,0.3086,0,2606,20.45,New customer (2 months),Month-to-month contract,No dependents
+1945-XISKS,0.0097,0,4994,19.65,No dependents,No tech support,No online security
+4359-INNWN,0.0461,0,4828,20.05,No dependents,Relatively short tenure (17 months),No tech support
+7649-SIJJF,0.025,0,6045,80.1,No dependents,Paperless billing,No device protection
+9254-RBFON,0.291,1,5160,98.6,Fiber optic internet,No dependents,Relatively short tenure (17 months)
+0970-ETWGE,0.8444,1,4996,89.55,New customer (1 month),Fiber optic internet,Month-to-month contract
+7762-ONLJY,0.0358,0,4122,19.7,New customer (6 months),No tech support,No online security
+6710-HSJRD,0.4837,0,5239,114.1,Fiber optic internet,Month-to-month contract,No dependents
+8873-GLDMH,0.722,0,4220,73.85,New customer (6 months),Fiber optic internet,Month-to-month contract
+9907-SWKKF,0.5345,1,4842,25.05,New customer (1 month),Month-to-month contract,No dependents
+4658-HCOHW,0.5786,1,3123,102.8,Fiber optic internet,Month-to-month contract,No dependents
+9330-VOFSZ,0.1258,0,5942,110.8,Fiber optic internet,No dependents,Paperless billing
+2860-RANUS,0.5488,1,3336,85.8,Fiber optic internet,Month-to-month contract,No dependents
+6234-PFPXL,0.3679,0,3207,95.9,Fiber optic internet,Month-to-month contract,No dependents
+7205-BAIAD,0.0163,0,3091,20.6,No dependents,Paperless billing,No tech support
+3858-VOBET,0.5368,1,5897,74.95,Fiber optic internet,Month-to-month contract,No dependents
+5103-MHMHY,0.127,1,4563,45.95,New customer (1 month),Month-to-month contract,No tech support
+6119-SPUDB,0.0179,0,2653,38.25,No dependents,No online backup,No device protection
+9389-ACWBI,0.2796,0,3850,69.95,New customer (5 months),Fiber optic internet,Month-to-month contract
+3454-JFUBC,0.0101,0,6136,20.0,No dependents,Paperless billing,No tech support
+1768-ZAIFU,0.6956,1,5688,25.2,New customer (1 month),Month-to-month contract,No dependents
+7017-VFULY,0.3031,0,4158,20.1,New customer (2 months),Month-to-month contract,No dependents
+9221-OTIVJ,0.7039,1,2292,104.85,Fiber optic internet,Month-to-month contract,No dependents
+2482-CZGBB,0.5759,1,3156,70.0,Fiber optic internet,New customer (10 months),Month-to-month contract
+7018-WBJNK,0.1713,0,5566,78.3,Fiber optic internet,Month-to-month contract,Relatively short tenure (13 months)
+3331-HQDTW,0.4078,1,3410,109.8,Fiber optic internet,Month-to-month contract,No dependents
+4695-VADHF,0.3503,1,2989,57.45,Month-to-month contract,No dependents,Pays by electronic check
+4086-WITJG,0.0018,0,4808,19.7,No tech support,No online security,No online backup
+6297-NOOPG,0.1386,0,5979,110.5,Fiber optic internet,No dependents,Pays by electronic check
+8777-PVYGU,0.0849,0,4405,64.3,No dependents,Paperless billing,No tech support
+4378-MYPGO,0.0169,0,5795,105.25,Fiber optic internet,Paperless billing,No tech support
+9313-CDOGY,0.0221,0,3854,19.6,Month-to-month contract,Pays by electronic check,No tech support
+4121-AGSIN,0.0488,0,4455,24.5,No dependents,Paperless billing,No tech support
+0432-CAJZV,0.7218,0,3953,90.7,New customer (3 months),Fiber optic internet,Month-to-month contract
+9097-ZUBYC,0.1931,0,2168,48.8,Month-to-month contract,No dependents,Relatively short tenure (14 months)
+9638-JIQYA,0.5964,0,4033,24.9,New customer (2 months),Month-to-month contract,No dependents
+1024-GUALD,0.745,1,4851,24.8,New customer (1 month),Month-to-month contract,No dependents
+8024-XNAFQ,0.0439,0,5294,107.4,Fiber optic internet,No dependents,Paperless billing
+7587-RZNME,0.5699,1,4849,43.3,New customer (3 months),Month-to-month contract,No dependents
+1346-UFHAX,0.4325,0,5577,80.0,Fiber optic internet,Month-to-month contract,No dependents
+6374-NTQLP,0.0131,0,5092,104.1,Fiber optic internet,Paperless billing,No online backup
+6625-FLENO,0.0125,0,4927,20.75,No dependents,No tech support,No online security
+7375-WMVMT,0.0568,0,6412,95.5,Fiber optic internet,No dependents,Paperless billing
+6910-HADCM,0.6926,1,5613,76.35,New customer (1 month),Fiber optic internet,Month-to-month contract
+7401-JIXNM,0.0373,0,5907,91.3,No dependents,No device protection,
+7338-ERIVA,0.0604,0,4003,45.05,No dependents,No online backup,
+5376-DEQCP,0.7579,1,4063,70.6,New customer (1 month),Fiber optic internet,Month-to-month contract
+0909-SELIE,0.0326,0,4302,80.8,No dependents,Paperless billing,No device protection
+5419-KLXBN,0.4641,1,5853,89.15,Fiber optic internet,Month-to-month contract,No dependents
+0365-TRTPY,0.2088,0,5135,91.2,Fiber optic internet,Month-to-month contract,No dependents
+6712-OAWRH,0.5903,1,5154,91.25,Fiber optic internet,Month-to-month contract,No dependents
+2428-ZMCTB,0.1251,0,3926,19.75,New customer (10 months),Month-to-month contract,No dependents
+1963-VAUKV,0.2502,1,3663,20.4,New customer (1 month),Month-to-month contract,No dependents
+9381-NDKME,0.4147,1,3843,40.65,Month-to-month contract,No dependents,Paperless billing
+3729-OWRVL,0.1043,0,4295,110.35,Fiber optic internet,No dependents,Pays by electronic check
+0895-LMRSF,0.1772,0,3314,64.9,No dependents,Paperless billing,No tech support
+2676-SSLTO,0.0501,0,6138,66.15,No dependents,Paperless billing,No online security
+8495-PRWFH,0.188,0,5831,55.65,Month-to-month contract,No dependents,Pays by electronic check
+9030-QGZNL,0.0322,0,4249,20.85,New customer (8 months),No dependents,No tech support
+9972-NKTFD,0.1,0,3185,54.65,Month-to-month contract,No dependents,No online security
+7998-WNZEM,0.0139,0,5447,80.6,No dependents,No device protection,
+0979-PHULV,0.4322,1,4020,99.45,Fiber optic internet,Month-to-month contract,No dependents
+6445-TNRXS,0.0178,0,5671,114.7,Fiber optic internet,Paperless billing,No device protection
+9586-JGQKH,0.1165,0,4512,105.4,Fiber optic internet,No dependents,Paperless billing
+3966-HRMZA,0.6048,0,3545,75.05,New customer (3 months),Fiber optic internet,Month-to-month contract
+5498-IBWPI,0.0104,0,5232,49.4,Paperless billing,No online security,No online backup
+6823-SIDFQ,0.0341,0,5327,18.25,No dependents,No tech support,No online security
+2323-ARSVR,0.0834,0,6103,111.05,Fiber optic internet,No dependents,Pays by electronic check
+5468-BPMMO,0.0799,0,5092,19.6,Month-to-month contract,No dependents,Pays by electronic check
+0486-HECZI,0.1369,1,5154,96.75,Fiber optic internet,Month-to-month contract,Pays by electronic check
+2178-PMGCJ,0.3724,0,4838,69.7,Fiber optic internet,Month-to-month contract,No dependents
+4660-IRIBM,0.1458,0,5192,87.9,Fiber optic internet,Month-to-month contract,Relatively short tenure (18 months)
+9674-EHPPG,0.024,0,2519,40.4,No dependents,No online backup,No device protection
+5606-AMZBO,0.5549,0,3403,78.15,Fiber optic internet,New customer (10 months),Month-to-month contract
+0665-XHDJU,0.1672,0,6022,99.4,Fiber optic internet,No dependents,Pays by electronic check
+5402-HTOTQ,0.2859,0,3771,55.3,Month-to-month contract,No dependents,Pays by electronic check
+8258-GSTJK,0.8098,1,3128,77.0,New customer (3 months),Fiber optic internet,Month-to-month contract
+3787-TRIAL,0.1429,0,4302,26.05,Month-to-month contract,Pays by electronic check,Paperless billing
+6175-IRFIT,0.6522,0,2610,78.75,New customer (5 months),Fiber optic internet,Month-to-month contract
+6317-YPKDH,0.497,1,4534,29.95,New customer (1 month),Month-to-month contract,No dependents
+5692-FPTAH,0.4929,1,2168,45.4,New customer (1 month),Month-to-month contract,No dependents
+5373-SFODM,0.5165,1,3041,85.25,Fiber optic internet,Month-to-month contract,No dependents
+0868-VJRDR,0.0636,0,4337,104.05,Fiber optic internet,No dependents,Paperless billing
+4079-VTGLK,0.1424,0,5610,74.85,No dependents,Pays by electronic check,No tech support
+1166-PQLGG,0.0018,0,4424,19.55,No tech support,No online security,No online backup
+5296-BFCYD,0.0038,0,3392,20.1,Paperless billing,No tech support,No online security
+6568-POCUI,0.1139,0,3363,95.2,Fiber optic internet,No dependents,Paperless billing
+2839-RFSQE,0.245,1,3845,20.65,New customer (2 months),Month-to-month contract,No dependents
+2188-SXWVT,0.0405,0,4027,55.0,No dependents,No tech support,
+8849-GYOKR,0.2032,1,4893,106.55,Fiber optic internet,No dependents,No tech support
+3623-FQBOX,0.1114,0,3632,19.95,Month-to-month contract,No dependents,Paperless billing
+2649-HWLYB,0.0239,0,6177,76.15,No dependents,No online backup,No device protection
+0599-XNYDO,0.458,0,5456,69.8,Fiber optic internet,Month-to-month contract,No dependents
+2514-GINMM,0.8032,1,4490,79.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+8401-EMUWF,0.0491,0,4701,69.4,Month-to-month contract,Paperless billing,No tech support
+5766-ZJYBB,0.2498,1,4152,19.4,New customer (1 month),Month-to-month contract,No dependents
+2604-IJPDU,0.4384,0,4382,96.55,Fiber optic internet,Month-to-month contract,No dependents
+2501-XWWTZ,0.4896,0,2535,70.2,Fiber optic internet,Month-to-month contract,New customer (11 months)
+6370-ZVHDV,0.016,0,4501,25.3,No dependents,No tech support,No online security
+3027-YNWZU,0.0146,0,5538,25.0,No dependents,No tech support,No online security
+4526-ZJJTM,0.398,0,4849,88.4,Fiber optic internet,Month-to-month contract,No dependents
+0440-QEXBZ,0.167,0,5790,50.15,Month-to-month contract,No dependents,Paperless billing
+0330-IVZHA,0.7305,1,2969,69.95,New customer (5 months),Fiber optic internet,Month-to-month contract
+9758-MFWGD,0.0174,0,2617,29.9,No tech support,No online security,
+4229-CZMLL,0.7906,1,4160,74.9,New customer (6 months),Fiber optic internet,Month-to-month contract
+0742-MOABM,0.3937,1,3394,50.05,New customer (4 months),Month-to-month contract,No dependents
+4277-BWBML,0.0018,0,5092,19.95,No tech support,No online security,No online backup
+5136-GFPMB,0.3144,0,5871,89.4,Fiber optic internet,Month-to-month contract,No dependents
+7520-HQWJU,0.0266,0,4172,67.45,Month-to-month contract,Paperless billing,No tech support
+6304-IJFSQ,0.4491,1,5585,49.9,New customer (3 months),Month-to-month contract,No dependents
+0297-RBCSG,0.1087,0,2051,65.35,No dependents,Paperless billing,Relatively short tenure (19 months)
+6013-BHCAW,0.0142,0,4151,81.0,Paperless billing,No online security,No online backup
+4402-FTBXC,0.1908,0,4980,89.8,Fiber optic internet,Month-to-month contract,No dependents
+1471-GIQKQ,0.4753,0,5230,49.95,New customer (1 month),Month-to-month contract,No dependents
+4283-FUTGF,0.5705,1,3715,79.85,Fiber optic internet,Month-to-month contract,No dependents
+9548-LERKT,0.0238,0,3455,19.75,No dependents,No tech support,No online security
+8059-UDZFY,0.175,0,4738,105.35,Fiber optic internet,Month-to-month contract,Paperless billing
+0410-IPFTY,0.4302,0,4283,83.85,Fiber optic internet,Month-to-month contract,No dependents
+2478-EEWWM,0.3998,0,5905,44.3,Month-to-month contract,No dependents,Pays by electronic check
+4619-EVPHY,0.4233,0,3748,91.0,Fiber optic internet,No dependents,Paperless billing
+2277-DJJDL,0.5227,0,4763,99.0,Fiber optic internet,Month-to-month contract,No dependents
+2911-WDXMV,0.1581,0,5334,80.55,Fiber optic internet,Month-to-month contract,Relatively short tenure (18 months)
+3639-XJHKQ,0.0526,0,2463,60.6,Month-to-month contract,Pays by electronic check,Relatively short tenure (19 months)
+8173-RXAYP,0.005,0,4642,19.7,No tech support,No online security,No online backup
+4537-CIBHB,0.0185,0,4272,20.25,New customer (9 months),No tech support,No online security
+5442-BXVND,0.0246,0,5531,24.25,Month-to-month contract,No tech support,No online security
+2308-STERM,0.2446,0,5816,19.4,New customer (2 months),Month-to-month contract,No dependents
+7159-NOKYQ,0.1451,0,4001,93.15,Fiber optic internet,No dependents,Pays by electronic check
+6075-QMNRR,0.1015,0,6334,49.75,Month-to-month contract,No dependents,Paperless billing
+3694-GLTJM,0.291,0,2878,19.65,New customer (5 months),Month-to-month contract,No dependents
+9629-NHXFW,0.1113,0,3160,19.4,New customer (1 month),Month-to-month contract,Paperless billing
+7167-PCEYD,0.01,0,4260,19.8,No dependents,Paperless billing,No tech support
+2748-MYRVK,0.1707,1,4776,99.9,Fiber optic internet,No dependents,No tech support
+4223-WOZCM,0.414,0,5251,49.95,New customer (2 months),Month-to-month contract,No dependents
+6946-LMSQS,0.4121,1,2673,89.05,Fiber optic internet,No dependents,Pays by electronic check
+5469-NUJUR,0.0283,0,2831,19.95,No dependents,Paperless billing,Relatively short tenure (19 months)
+6388-TABGU,0.026,0,4529,56.15,No dependents,No tech support,
+1261-FWTTE,0.3568,0,2307,34.65,Month-to-month contract,No dependents,Paperless billing
+8590-YFFQO,0.01,0,5669,64.95,No dependents,No device protection,
+0082-OQIQY,0.4893,0,4561,94.2,Fiber optic internet,Month-to-month contract,No dependents
+9465-RWMXL,0.5466,1,5949,78.9,Fiber optic internet,Month-to-month contract,No dependents
+2930-UOTMB,0.1022,1,4403,65.25,Month-to-month contract,No dependents,No online backup
+9128-CPXKI,0.1094,0,5470,95.8,Fiber optic internet,No dependents,Pays by electronic check
+0484-FFVBJ,0.1449,0,4895,64.85,No dependents,Paperless billing,No tech support
+1100-DDVRV,0.4936,0,5575,49.8,Month-to-month contract,No dependents,Relatively short tenure (17 months)
+9313-QOLTZ,0.0741,0,5895,20.9,Month-to-month contract,No dependents,No tech support
+3338-CVVEH,0.6937,0,5674,94.55,Fiber optic internet,Month-to-month contract,New customer (12 months)
+1131-SUEKT,0.0432,0,4000,98.45,Fiber optic internet,Paperless billing,No online security
+7602-DBTOU,0.0086,0,4890,19.6,No dependents,No tech support,No online security
+1385-TQOZW,0.1684,0,2392,20.45,New customer (9 months),Month-to-month contract,No dependents
+6892-XPFPU,0.7086,1,2104,104.25,Fiber optic internet,Month-to-month contract,No dependents
+4115-NZRKS,0.7269,0,2415,89.15,Fiber optic internet,New customer (7 months),Month-to-month contract
+5514-YQENT,0.0207,0,5038,111.15,Fiber optic internet,Pays by electronic check,Paperless billing
+6319-IEJWJ,0.6804,1,2058,90.2,Fiber optic internet,Month-to-month contract,No dependents
+8849-AYPTR,0.5266,0,3296,91.25,Fiber optic internet,Month-to-month contract,No dependents
+5893-PYOLZ,0.0364,0,4399,81.8,No dependents,Paperless billing,No online security
+7180-PISOG,0.8512,1,5554,74.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+8443-ZRDBZ,0.7996,1,3685,76.05,New customer (4 months),Fiber optic internet,Month-to-month contract
+9079-YEXQJ,0.3761,1,5527,111.1,Fiber optic internet,Month-to-month contract,No dependents
+3780-YVMFA,0.1883,0,3123,68.55,New customer (8 months),Month-to-month contract,Pays by electronic check
+6968-MHOMU,0.1831,0,5006,45.0,No dependents,Paperless billing,No tech support
+0899-LIIBW,0.5993,0,5891,100.85,Fiber optic internet,Month-to-month contract,No dependents
+3677-IYRBF,0.6874,1,4002,30.4,New customer (2 months),Month-to-month contract,No dependents
+8393-DLHGA,0.5591,1,2241,95.9,Fiber optic internet,Month-to-month contract,No dependents
+7691-XVTZH,0.1124,0,5672,89.95,Fiber optic internet,No dependents,Paperless billing
+5360-LJCNJ,0.1259,0,5707,105.15,Fiber optic internet,No dependents,Paperless billing
+3891-PUQOD,0.2168,1,5020,59.2,New customer (1 month),Month-to-month contract,Pays by electronic check
+0952-KMEEH,0.4914,1,5525,98.15,Fiber optic internet,Month-to-month contract,No dependents
+4919-IKATY,0.787,1,5141,84.5,New customer (5 months),Fiber optic internet,Month-to-month contract
+9746-UGFAC,0.0406,0,3171,20.85,No dependents,No tech support,No online security
+9108-EQPNQ,0.0119,0,3179,26.1,New customer (10 months),No tech support,No online security
+0531-ZZJWQ,0.4765,0,4958,74.0,Fiber optic internet,Month-to-month contract,No dependents
+8763-KIAFH,0.0626,0,2269,20.55,No dependents,Paperless billing,No tech support
+5863-OOKCL,0.1242,0,5949,18.85,New customer (10 months),Month-to-month contract,No dependents
+2958-NHPPS,0.1108,0,4263,20.85,Month-to-month contract,No dependents,Pays by electronic check
+9530-GRMJG,0.0145,0,5568,84.1,Pays by electronic check,Paperless billing,No online security
+1809-DMJHQ,0.1153,1,4846,46.0,New customer (5 months),Month-to-month contract,No tech support
+0164-XAIRP,0.0251,0,2511,19.55,No dependents,Paperless billing,No tech support
+2926-JEJJC,0.0902,0,5066,20.2,New customer (8 months),No dependents,Paperless billing
+1169-WCVAK,0.3661,0,4600,88.8,Fiber optic internet,Month-to-month contract,No dependents
+1217-VASWC,0.2633,0,4499,100.55,Fiber optic internet,No dependents,Paperless billing
+2452-KDRRH,0.387,0,5269,101.4,Fiber optic internet,Month-to-month contract,No dependents
+6402-EJMWF,0.5439,0,3684,55.3,New customer (4 months),Month-to-month contract,No dependents
+7663-CUXZB,0.1004,0,6251,113.75,Fiber optic internet,No dependents,Pays by electronic check
+4312-KFRXN,0.0117,0,5512,25.4,No dependents,No tech support,No online security
+3011-WQKSZ,0.0381,0,5188,20.0,Month-to-month contract,Pays by electronic check,Paperless billing
+9747-DDZOS,0.6096,1,4378,73.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+2091-MJTFX,0.0811,1,4568,51.2,Month-to-month contract,No online security,No online backup
+0388-EOPEX,0.7455,1,4263,74.4,New customer (2 months),Fiber optic internet,Month-to-month contract
+3161-ONRWK,0.0375,0,4053,65.85,No dependents,Paperless billing,No device protection
+2587-EKXTS,0.4377,0,2827,111.5,Fiber optic internet,Month-to-month contract,No dependents
+9752-ZNQUT,0.5544,0,3704,48.6,New customer (1 month),Month-to-month contract,No dependents
+9572-WUKSB,0.6752,0,4416,29.9,New customer (3 months),Month-to-month contract,No dependents
+3836-FZSDJ,0.0126,0,4367,24.85,No dependents,No tech support,No online security
+8805-JNRAZ,0.3781,0,2342,49.2,New customer (2 months),Month-to-month contract,No dependents
+3069-SSVSN,0.3425,0,4467,25.85,New customer (1 month),No dependents,No tech support
+8015-IHCGW,0.0229,0,4017,115.5,Fiber optic internet,Pays by electronic check,Paperless billing
+8132-YPVBX,0.6919,0,3291,85.95,New customer (6 months),Fiber optic internet,Month-to-month contract
+0235-KGSLC,0.7373,1,3967,85.55,New customer (1 month),Fiber optic internet,Month-to-month contract
+1302-UHBDD,0.5469,0,4812,89.95,Fiber optic internet,Month-to-month contract,No dependents
+3722-WPXTK,0.8441,1,4254,88.35,New customer (1 month),Fiber optic internet,Month-to-month contract
+7531-GQHME,0.1191,0,4996,20.05,Month-to-month contract,New customer (12 months),No dependents
+1335-NTIUC,0.4913,0,5473,24.95,New customer (9 months),Month-to-month contract,No dependents
+9367-TCUYN,0.1185,0,5179,20.1,Month-to-month contract,New customer (12 months),No dependents
+1536-HBSWP,0.5137,0,4667,49.9,New customer (1 month),Month-to-month contract,No dependents
+8573-JGCZW,0.0629,0,4774,19.65,No dependents,Relatively short tenure (17 months),Paperless billing
+2694-CIUMO,0.481,0,3445,79.55,Fiber optic internet,Month-to-month contract,New customer (12 months)
+2027-FECZV,0.7341,1,2406,106.7,Fiber optic internet,Month-to-month contract,New customer (12 months)
+9103-TCIHJ,0.2427,1,4519,55.7,Month-to-month contract,No dependents,Relatively short tenure (15 months)
+1545-JFUML,0.0991,0,5295,99.0,Fiber optic internet,No dependents,Pays by electronic check
+0524-IAVZO,0.6338,1,3698,85.0,Fiber optic internet,Month-to-month contract,No dependents
+5519-TEEUH,0.0087,0,5759,20.15,Paperless billing,No tech support,No online security
+6654-QGBZZ,0.25,0,5057,19.9,New customer (1 month),Month-to-month contract,No dependents
+2294-DMMUS,0.0753,0,5057,70.45,Month-to-month contract,Paperless billing,No tech support
+0017-IUDMW,0.0161,0,6252,116.8,Fiber optic internet,Paperless billing,No device protection
+5018-LXQQG,0.031,0,4631,66.3,Month-to-month contract,No online backup,
+5808-TOTXO,0.0408,0,2774,20.55,New customer (3 months),Paperless billing,No tech support
+1174-FGIFN,0.1183,0,5823,90.45,Fiber optic internet,Pays by electronic check,Paperless billing
+0730-KOAVE,0.3673,0,4219,94.3,Fiber optic internet,Month-to-month contract,No dependents
+1218-VKFPE,0.1514,1,3535,19.0,Month-to-month contract,New customer (12 months),No dependents
+5313-FPXWG,0.0453,0,4886,24.6,No dependents,Paperless billing,No tech support
+2834-JKOOW,0.0756,0,3572,45.9,No dependents,Relatively short tenure (15 months),No device protection
+9430-NKQLY,0.0034,0,4185,25.1,Paperless billing,No tech support,No online security
+0363-QJVFX,0.3559,1,2541,108.15,Fiber optic internet,Month-to-month contract,No dependents
+1658-TJVOA,0.673,0,4716,74.1,New customer (6 months),Fiber optic internet,Month-to-month contract
+6685-GBWJZ,0.0334,0,5114,70.8,No dependents,,
+6328-ZPBGN,0.6982,1,4074,95.15,Fiber optic internet,Month-to-month contract,New customer (11 months)
+4003-FUSHP,0.222,0,5831,61.55,Month-to-month contract,No dependents,Paperless billing
+7690-KPNCU,0.0834,0,4515,73.05,No dependents,Paperless billing,No tech support
+2969-WGHQO,0.0496,0,3334,69.45,New customer (7 months),Pays by electronic check,No tech support
+1855-CFULU,0.2423,0,3460,20.05,New customer (4 months),Month-to-month contract,No dependents
+9788-YTFGE,0.176,0,3331,19.95,New customer (7 months),Month-to-month contract,No dependents
+8266-VBFQL,0.7412,0,3314,90.4,New customer (4 months),Fiber optic internet,Month-to-month contract
+2325-NBPZG,0.6823,0,5125,74.55,New customer (3 months),Fiber optic internet,Month-to-month contract
+9906-NHHVC,0.0576,0,5693,53.5,No dependents,Paperless billing,No tech support
+2541-YGPKE,0.0107,0,3764,63.7,No online backup,,
+5049-MUBWG,0.0736,0,4705,75.0,No dependents,No online backup,
+2332-TODQS,0.0272,0,3642,25.05,No dependents,No tech support,No online security
+4419-UJMUS,0.0368,0,4637,99.35,Fiber optic internet,Pays by electronic check,Paperless billing
+2233-TXSIU,0.0409,0,3522,44.45,Relatively short tenure (17 months),No tech support,No online backup
+6770-XUAGN,0.469,1,3753,21.0,New customer (1 month),Month-to-month contract,No dependents
+2919-HBCJO,0.6421,1,4580,76.65,New customer (4 months),Fiber optic internet,Month-to-month contract
+9508-ILZDG,0.4484,0,5425,96.35,Fiber optic internet,Month-to-month contract,No dependents
+5442-BHQNG,0.6887,0,3430,70.35,New customer (2 months),Fiber optic internet,Month-to-month contract
+7250-EQKIY,0.1607,1,2426,50.45,New customer (1 month),Month-to-month contract,No tech support
+6838-HVLXG,0.1186,0,4177,20.3,Month-to-month contract,New customer (12 months),No dependents
+9767-FFLEM,0.2803,0,4591,69.5,Fiber optic internet,Month-to-month contract,No dependents
+2245-ADZFJ,0.0694,0,3491,80.55,No dependents,No online security,
+1150-WFARN,0.0881,1,5516,108.75,Fiber optic internet,No dependents,Paperless billing
+9054-FOWNV,0.2984,0,5585,88.75,Fiber optic internet,Month-to-month contract,Pays by electronic check
+7997-EASSD,0.1489,0,6063,81.2,Fiber optic internet,No dependents,Paperless billing
+7560-QJAVJ,0.0151,0,5474,79.6,No dependents,No online backup,No device protection
+2668-TZSPS,0.2502,0,2664,20.45,New customer (1 month),Month-to-month contract,No dependents
+9139-WQQDY,0.2818,1,4235,100.45,Fiber optic internet,No dependents,No tech support
+6726-NNFWD,0.0544,0,6004,89.45,Fiber optic internet,No dependents,No tech support
+9330-DHBFL,0.0721,0,2072,66.25,No dependents,Paperless billing,Relatively short tenure (23 months)
+5727-MYATE,0.007,0,5028,90.8,Paperless billing,No device protection,
+2824-DXNKN,0.0076,0,5656,71.45,Paperless billing,No tech support,No online backup
+6166-ILMNY,0.6065,1,5667,69.75,New customer (2 months),Fiber optic internet,Month-to-month contract
+5236-XMZJY,0.0678,0,3048,59.65,Month-to-month contract,No dependents,No tech support
+1709-EJDOX,0.0027,0,3843,19.75,No tech support,No online security,No online backup
+4962-CHQPW,0.0071,0,2941,19.85,No tech support,No online security,No online backup
+0301-FIDRB,0.0076,0,6107,63.8,Paperless billing,No device protection,
+1820-TQVEV,0.7575,1,3042,69.55,New customer (1 month),Fiber optic internet,Month-to-month contract
+9115-YQHGA,0.151,0,3355,51.1,Month-to-month contract,No dependents,Pays by electronic check
+1541-ETJZO,0.4209,1,2937,62.05,New customer (1 month),Month-to-month contract,No dependents
+6230-BSUXY,0.8103,1,2650,85.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+6797-LNAQX,0.0962,1,4794,98.3,Fiber optic internet,No dependents,No tech support
+9588-YRFHY,0.0166,0,5240,19.9,No dependents,Paperless billing,No tech support
+1092-GANHU,0.4947,1,3182,76.65,Fiber optic internet,Month-to-month contract,No dependents
+5951-AOFIH,0.1882,0,3843,66.4,Month-to-month contract,No dependents,Paperless billing
+7029-RPUAV,0.6944,1,5508,100.45,Fiber optic internet,Month-to-month contract,No dependents
+4700-UBQMV,0.0592,0,3503,75.9,Paperless billing,Relatively short tenure (21 months),No tech support
+3594-UVONA,0.1059,1,3833,85.95,No dependents,Paperless billing,No online backup
+7750-EYXWZ,0.2623,0,3740,60.65,New customer (12 months),No dependents,Pays by electronic check
+7054-ENNGU,0.2697,0,4623,50.85,New customer (9 months),Month-to-month contract,No dependents
+0402-OAMEN,0.0025,0,5335,24.45,No tech support,No online security,No online backup
+2195-VVRJF,0.2825,0,2422,59.1,Month-to-month contract,No dependents,Relatively short tenure (18 months)
+8819-ZBYNA,0.0996,0,4935,109.1,Fiber optic internet,No dependents,Paperless billing
+7748-UMTRK,0.2192,0,2440,101.3,Fiber optic internet,Month-to-month contract,Pays by electronic check
+1741-WTPON,0.0173,0,4937,115.85,Fiber optic internet,No device protection,
+7209-JCUDS,0.7028,1,2832,94.9,Fiber optic internet,New customer (10 months),Month-to-month contract
+2485-ITVKB,0.791,1,2643,35.1,New customer (2 months),Month-to-month contract,No dependents
+9648-BCHKM,0.0114,0,5231,24.65,Relatively short tenure (18 months),Paperless billing,No tech support
+0743-HRVFF,0.0581,0,4132,56.15,Pays by electronic check,Paperless billing,No online security
+2522-AHJXR,0.3484,0,4350,109.45,Fiber optic internet,Month-to-month contract,No dependents
+9143-CANJF,0.038,0,2200,55.15,Month-to-month contract,Pays by electronic check,No online backup
+1444-VVSGW,0.1117,1,5563,115.65,Fiber optic internet,No dependents,No device protection
+6898-MDLZW,0.2091,0,5385,53.75,Month-to-month contract,New customer (12 months),No dependents
+0074-HDKDG,0.0909,0,3807,61.6,No dependents,Paperless billing,No tech support
+3982-JGSFD,0.0375,0,3526,20.35,No dependents,Paperless billing,No tech support
+7928-VJYAB,0.3167,0,2004,90.6,Fiber optic internet,Month-to-month contract,New customer (11 months)
+1522-VVDMG,0.6318,1,3807,89.75,Fiber optic internet,New customer (7 months),Month-to-month contract
+2665-NPTGL,0.6452,0,3114,98.1,Fiber optic internet,Month-to-month contract,No dependents
+8728-SKJLR,0.282,0,3277,74.25,Fiber optic internet,Month-to-month contract,No dependents
+7733-UDMTP,0.3295,0,4622,55.0,Month-to-month contract,No dependents,Pays by electronic check
+0431-APWVY,0.3645,1,5958,90.1,Fiber optic internet,No dependents,Paperless billing
+5081-NWSUP,0.113,0,4883,64.9,New customer (10 months),No dependents,No online security
+2746-DIJLO,0.0848,0,2994,56.3,No dependents,Paperless billing,No tech support
+7277-OZCGZ,0.3859,0,5479,89.05,Fiber optic internet,Month-to-month contract,No dependents
+5236-PERKL,0.103,1,4738,112.95,Fiber optic internet,No dependents,Paperless billing
+2788-CJQAQ,0.0509,0,3799,19.45,No dependents,Relatively short tenure (13 months),No tech support
+3096-WPXBT,0.0429,0,4804,100.7,Fiber optic internet,Paperless billing,No tech support
+9962-BFPDU,0.0835,0,5811,20.05,New customer (1 month),Month-to-month contract,No tech support
+2892-GESUL,0.006,0,2269,19.35,Relatively short tenure (18 months),No tech support,No online security
+9741-YLNTD,0.7244,0,2684,87.95,New customer (6 months),Fiber optic internet,Month-to-month contract
+1205-WNWPJ,0.3101,1,4661,59.5,New customer (7 months),Month-to-month contract,No dependents
+3173-NVMPX,0.127,0,4291,55.3,New customer (9 months),Month-to-month contract,Paperless billing
+9661-MHUMO,0.1726,1,4478,49.25,New customer (1 month),Month-to-month contract,Paperless billing
+6000-APYLU,0.6506,1,3890,80.8,Fiber optic internet,New customer (9 months),Month-to-month contract
+0048-PIHNL,0.0336,0,6061,20.45,No dependents,No tech support,No online security
+9420-LOJKX,0.1448,1,2966,99.1,Fiber optic internet,Month-to-month contract,Relatively short tenure (15 months)
+7061-OVMIM,0.0429,0,5203,19.55,No dependents,No tech support,No online security
+5671-RQRLP,0.0855,0,4181,75.65,Fiber optic internet,No dependents,Paperless billing
+5129-JLPIS,0.4363,0,5822,105.5,Fiber optic internet,Month-to-month contract,No dependents
+5170-PTRKA,0.0812,0,4865,35.8,No dependents,Paperless billing,No online backup
+4819-HJPIW,0.248,0,2675,25.15,Month-to-month contract,No dependents,Relatively short tenure (18 months)
+8780-RSYYU,0.1016,0,2159,19.2,Month-to-month contract,No dependents,Paperless billing
+2335-GSODA,0.0071,0,2327,40.1,No online backup,Relatively short tenure (23 months),No device protection
+5696-CEIQJ,0.013,0,4376,103.15,Fiber optic internet,No online security,No device protection
+6169-PPETC,0.0039,0,2009,20.5,No tech support,No online security,No online backup
+4237-RLAQD,0.4931,1,5930,45.85,New customer (1 month),Month-to-month contract,No dependents
+7359-WWYJV,0.0531,0,6274,114.45,Fiber optic internet,No dependents,No device protection
+8620-RJPZN,0.3254,0,3061,20.7,New customer (1 month),Month-to-month contract,No dependents
+7426-WEIJX,0.1077,0,6214,80.95,Fiber optic internet,Month-to-month contract,Pays by electronic check
+7629-WIXZF,0.2292,0,4770,59.1,New customer (7 months),No dependents,Pays by electronic check
+2616-FLVQC,0.0079,0,6036,19.55,No dependents,No tech support,No online security
+9163-GHAYE,0.2287,0,5584,48.85,Month-to-month contract,No dependents,Relatively short tenure (15 months)
+4464-JCOLN,0.1683,1,2362,19.85,New customer (2 months),No dependents,No tech support
+2971-SGAFL,0.4591,0,5631,78.75,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+4735-ASGMA,0.6533,1,4997,98.35,Fiber optic internet,Month-to-month contract,No dependents
+5245-VDBUR,0.0718,0,5509,35.45,No dependents,No tech support,No online backup
+1493-AMTIE,0.3169,1,5394,20.2,New customer (1 month),Month-to-month contract,No dependents
+1112-CUNAO,0.5639,1,2668,89.85,Fiber optic internet,Month-to-month contract,No dependents
+7571-YXDAD,0.6787,1,2078,74.9,New customer (2 months),Fiber optic internet,Month-to-month contract
+8714-EUHJO,0.6023,1,5219,91.15,Fiber optic internet,Month-to-month contract,No dependents
+9040-KZVWO,0.1426,0,5184,75.5,Fiber optic internet,No dependents,No tech support
+6713-OKOMC,0.255,0,2013,29.75,New customer (10 months),Month-to-month contract,No dependents
+8749-CLJXC,0.25,0,2067,20.05,New customer (1 month),Month-to-month contract,No dependents
+4713-LZDRV,0.8078,1,4322,79.6,New customer (2 months),Fiber optic internet,Month-to-month contract
+6598-RFFVI,0.1329,1,2279,19.3,New customer (2 months),No dependents,No tech support
+7470-MCQTK,0.5494,1,2655,48.75,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+5524-KHNJP,0.1028,0,5344,74.75,No dependents,No tech support,No online backup
+1707-HABPF,0.1566,0,3191,91.3,Fiber optic internet,No dependents,Paperless billing
+4581-LNWUM,0.4888,0,3000,49.15,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+9710-ZUSHQ,0.4064,1,5849,106.75,Fiber optic internet,Month-to-month contract,No dependents
+1697-LYYYX,0.0051,0,4376,19.1,No tech support,No online security,No online backup
+4013-GUXND,0.2503,0,3678,20.8,New customer (1 month),Month-to-month contract,No dependents
+5022-JNQEQ,0.2235,0,4843,75.85,Fiber optic internet,New customer (9 months),Month-to-month contract
+4983-CCWMC,0.6717,0,5487,69.6,New customer (3 months),Fiber optic internet,Month-to-month contract
+6345-FZOQH,0.0091,0,5570,19.9,No dependents,No tech support,No online security
+0962-CQPWQ,0.0024,0,4574,20.3,No tech support,No online security,No online backup
+5495-GPSRW,0.0276,0,2120,19.7,No dependents,Paperless billing,Relatively short tenure (20 months)
+2252-JHJGE,0.2016,0,4344,104.0,Fiber optic internet,No dependents,Pays by electronic check
+7356-AYNJP,0.2227,0,5685,23.9,New customer (4 months),No dependents,Pays by electronic check
+2019-HDCZY,0.1705,0,4004,102.6,Fiber optic internet,No dependents,Pays by electronic check
+8582-KRHPJ,0.1387,0,5629,35.0,Month-to-month contract,No dependents,Paperless billing
+2867-UIMSS,0.7515,1,2734,80.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+3487-EARAT,0.0282,0,6325,74.1,No dependents,No device protection,
+9926-PJHDQ,0.0629,0,5120,76.8,No dependents,Paperless billing,No tech support
+0289-IVARM,0.1115,0,3463,60.55,Month-to-month contract,No dependents,Pays by electronic check
+4672-FOTSD,0.2789,0,4334,67.25,Month-to-month contract,New customer (12 months),No dependents
+6198-PNNSZ,0.1929,0,5648,109.8,Fiber optic internet,No dependents,No tech support
+7603-USHJS,0.2021,1,2010,73.75,Fiber optic internet,Month-to-month contract,New customer (12 months)
+6784-XYJAE,0.1095,0,4770,55.8,No dependents,Pays by electronic check,No tech support
+3858-XHYJO,0.2338,0,4078,105.75,Fiber optic internet,No dependents,No tech support
+1087-UDSIH,0.3021,1,5000,19.6,New customer (3 months),Month-to-month contract,No dependents
+7251-LJBQN,0.2523,0,3568,103.75,Fiber optic internet,No dependents,Paperless billing
+3200-MNQTF,0.015,0,4361,70.9,No dependents,No device protection,
+9359-UGBTK,0.0356,0,4910,72.35,No dependents,Paperless billing,No online backup
+8160-HOWOX,0.5364,0,4858,66.85,New customer (7 months),Month-to-month contract,No dependents
+0258-NOKBL,0.7163,0,5625,90.4,New customer (3 months),Fiber optic internet,Month-to-month contract
+2800-QQUSO,0.4882,0,3286,100.3,Fiber optic internet,Month-to-month contract,No dependents
+2129-ALKBS,0.0396,0,2211,26.2,Month-to-month contract,Pays by electronic check,Paperless billing
+9972-VAFJJ,0.2258,0,6355,94.0,Fiber optic internet,No dependents,Pays by electronic check
+4693-VWVBO,0.3125,0,3889,19.55,New customer (3 months),Month-to-month contract,No dependents
+6969-MVBAI,0.7224,0,2893,90.1,Fiber optic internet,New customer (9 months),Month-to-month contract
+4821-WQOYN,0.0025,0,4603,20.1,Paperless billing,No tech support,No online security
+6769-DYBQN,0.2531,1,2097,85.0,Fiber optic internet,Month-to-month contract,No dependents
+4018-PPNDW,0.0217,0,5970,24.1,No dependents,Paperless billing,No tech support
+6288-CHQJB,0.023,0,5077,69.95,No dependents,No online backup,No device protection
+4905-JEFDW,0.3609,1,3119,41.6,New customer (11 months),No dependents,Pays by electronic check
+0559-CKHUS,0.0287,0,5758,19.55,No dependents,Paperless billing,No tech support
+2659-VXMWZ,0.2637,1,4146,111.3,Fiber optic internet,No dependents,Pays by electronic check
+6559-RAKOZ,0.1195,0,4301,97.95,Fiber optic internet,Pays by electronic check,Paperless billing
+8809-XKHMD,0.0553,0,6082,100.55,Fiber optic internet,No dependents,Paperless billing
+6365-HITVU,0.0038,0,4135,87.25,No device protection,,
+0134-XWXCE,0.0651,0,3253,74.85,No dependents,No online security,No online backup
+9720-JJJOR,0.0609,0,4565,60.3,No dependents,Paperless billing,No tech support
+2782-LFZVW,0.4276,0,3880,58.95,Month-to-month contract,New customer (11 months),No dependents
+6112-KTHFQ,0.1359,0,5917,19.3,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+9220-ZNKJI,0.0677,0,4291,88.8,Fiber optic internet,No dependents,No online security
+9820-RMCQV,0.1762,1,4444,48.55,Month-to-month contract,New customer (11 months),No dependents
+9013-AQORL,0.0351,0,4106,45.55,Month-to-month contract,No tech support,No online security
+2040-OBMLJ,0.1448,0,4850,81.7,Fiber optic internet,No dependents,No online security
+5574-NXZIU,0.0368,0,4273,109.2,Fiber optic internet,No dependents,No device protection
+5446-DKWYW,0.0417,0,6238,65.2,Pays by electronic check,Paperless billing,No tech support
+0480-KYJVA,0.0025,0,5897,24.25,No tech support,No online security,No online backup
+1074-AMIOH,0.1068,0,5989,108.25,Fiber optic internet,Month-to-month contract,Paperless billing
+0015-UOCOJ,0.3304,0,5525,48.2,New customer (7 months),Month-to-month contract,No dependents
+0256-LTHVJ,0.5686,1,5201,81.05,Fiber optic internet,Month-to-month contract,No dependents
+4547-LYTDD,0.5025,1,2850,72.65,Fiber optic internet,Month-to-month contract,No dependents
+1077-HUUJM,0.2329,0,4668,71.05,Fiber optic internet,New customer (7 months),Month-to-month contract
+2041-JIJCI,0.6729,0,4421,64.0,New customer (5 months),Month-to-month contract,No dependents
+1555-HAPSU,0.0025,0,5471,23.9,No tech support,No online security,No online backup
+4323-SADQS,0.1332,1,3520,34.5,New customer (7 months),Month-to-month contract,Pays by electronic check
+3292-PBZEJ,0.6889,0,3175,111.4,Fiber optic internet,New customer (11 months),Month-to-month contract
+6203-HBZPA,0.0322,0,5380,63.9,No dependents,No device protection,
+9755-JHNMN,0.0134,0,5075,67.4,No dependents,No device protection,
+7369-TRPFD,0.0431,0,2916,18.8,No dependents,Relatively short tenure (19 months),No tech support
+9878-TNQGW,0.8024,1,3533,80.95,New customer (2 months),Fiber optic internet,Month-to-month contract
+2279-AXJJK,0.3777,0,4465,95.65,Fiber optic internet,Month-to-month contract,No dependents
+5016-IBERQ,0.4969,0,2781,84.25,Fiber optic internet,Month-to-month contract,No dependents
+1016-DJTSV,0.5982,0,5242,69.7,Fiber optic internet,New customer (8 months),Month-to-month contract
+8433-WPJTV,0.0608,0,5669,103.9,Fiber optic internet,Paperless billing,No online security
+8903-XEBGX,0.2732,0,4594,55.3,New customer (2 months),Month-to-month contract,Pays by electronic check
+2632-TACXW,0.0155,0,4671,23.65,No dependents,No tech support,No online security
+7952-OBOYL,0.6665,0,4096,89.85,New customer (3 months),Fiber optic internet,Month-to-month contract
+1470-PSXNM,0.1055,0,5542,93.65,Fiber optic internet,Pays by electronic check,Paperless billing
+6227-HWPWX,0.3443,1,5671,69.0,Fiber optic internet,Month-to-month contract,No dependents
+5924-SNGKP,0.0328,0,3972,20.25,No dependents,Paperless billing,No tech support
+8818-DOPVL,0.5123,0,4103,104.45,Fiber optic internet,Month-to-month contract,No dependents
+4521-WFJAI,0.0192,0,4246,25.95,No dependents,Paperless billing,No tech support
+4724-WXVWF,0.3084,0,4334,95.4,Fiber optic internet,Month-to-month contract,No dependents
+3717-OEAUQ,0.6048,0,2388,70.7,New customer (2 months),Fiber optic internet,Month-to-month contract
+8165-ZJRNM,0.0025,0,4923,23.75,No tech support,No online security,No online backup
+7838-LAZFO,0.0697,0,4192,78.8,No dependents,No tech support,No device protection
+0513-RBGPE,0.0375,0,5229,62.8,No dependents,Paperless billing,No online backup
+7251-XFOIL,0.276,0,5536,89.2,Fiber optic internet,Month-to-month contract,No dependents
+2525-GVKQU,0.0088,0,4192,20.6,No dependents,No tech support,No online security
+7579-OOPEC,0.4586,1,5461,50.15,New customer (2 months),Month-to-month contract,No dependents
+3795-GWTRD,0.016,0,4626,75.55,No dependents,No device protection,
+4750-ZRXIU,0.8458,1,2467,84.6,New customer (4 months),Fiber optic internet,Month-to-month contract
+5445-PZWGX,0.1129,1,5090,102.0,Fiber optic internet,No dependents,Pays by electronic check
+0516-UXRMT,0.1451,0,5801,92.05,Fiber optic internet,No dependents,Pays by electronic check
+0727-BNRLG,0.059,0,5709,97.65,Fiber optic internet,No dependents,Paperless billing
+3932-CMDTD,0.6118,1,4663,105.65,New customer (4 months),Fiber optic internet,No dependents
+1264-FUHCX,0.1634,0,5913,56.3,No dependents,Paperless billing,No online security
+6194-HBGQN,0.064,0,4549,81.15,No dependents,Paperless billing,No device protection
+4524-QCSSM,0.2426,0,4512,44.65,Month-to-month contract,No dependents,Paperless billing
+4570-QHXHL,0.3824,0,5644,43.75,New customer (9 months),Month-to-month contract,No dependents
+2972-YDYUW,0.164,0,4507,94.7,Fiber optic internet,No dependents,Pays by electronic check
+2061-VVFST,0.0727,0,3924,19.5,Month-to-month contract,No dependents,No tech support
+6874-SGLHU,0.2692,0,4126,97.0,Fiber optic internet,No dependents,Paperless billing
+9844-FELAJ,0.0679,0,5899,107.9,Fiber optic internet,Pays by electronic check,Paperless billing
+1902-XBTFB,0.5008,1,5438,89.4,Fiber optic internet,Month-to-month contract,No dependents
+9039-RBEEE,0.1424,1,3080,48.95,Month-to-month contract,No dependents,Paperless billing
+9369-XFEHK,0.4358,1,3601,80.6,Fiber optic internet,Month-to-month contract,No dependents
+3680-CTHUH,0.1451,0,5680,116.6,Fiber optic internet,No dependents,Paperless billing
+3679-XASPY,0.1163,0,5612,19.45,New customer (1 month),Month-to-month contract,Pays by electronic check
+9089-UOWJG,0.1246,0,5068,58.35,Month-to-month contract,New customer (12 months),Paperless billing
+1574-DYCWE,0.0032,0,4057,19.95,No tech support,No online security,No online backup
+9779-DPNEJ,0.2402,0,4732,80.15,Fiber optic internet,Month-to-month contract,Pays by electronic check
+2967-MXRAV,0.172,0,5160,18.8,New customer (1 month),No dependents,No tech support
+0327-WFZSY,0.1126,0,5434,100.0,Fiber optic internet,Pays by electronic check,No tech support
+1731-TVIUK,0.7793,1,4554,93.5,New customer (4 months),Fiber optic internet,Month-to-month contract
+7666-WKRON,0.0834,1,2224,80.45,Fiber optic internet,No dependents,Pays by electronic check
+3865-ZYKAD,0.2217,0,4503,84.9,Fiber optic internet,Month-to-month contract,No dependents
+1465-LNTLJ,0.3785,0,4537,64.4,New customer (8 months),Month-to-month contract,No dependents
+2696-RZVZW,0.013,0,4187,25.05,No dependents,No tech support,No online security
+0685-MLYYM,0.6971,1,4407,70.75,New customer (2 months),Fiber optic internet,Month-to-month contract
+2778-OCLGR,0.2748,1,4591,39.1,Month-to-month contract,No dependents,No tech support
+3982-XWFZQ,0.2907,1,4873,50.25,Month-to-month contract,No dependents,Pays by electronic check
+4759-PXTAN,0.1644,0,4093,80.1,No dependents,Pays by electronic check,Paperless billing
+1448-PWKYE,0.8005,1,2046,80.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+8741-LQOBK,0.0271,0,4829,35.05,Month-to-month contract,No tech support,
+8650-RHRKE,0.666,1,4207,29.65,New customer (4 months),Month-to-month contract,No dependents
+7266-GSSJX,0.0705,0,2606,20.45,Month-to-month contract,New customer (11 months),Pays by electronic check
+1265-HVPZB,0.0475,0,6432,66.4,No dependents,No tech support,No device protection
+9640-ZSLDC,0.019,0,4854,60.6,No tech support,No online security,No online backup
+0988-JRWWP,0.6356,0,3167,54.2,New customer (3 months),Month-to-month contract,No dependents
+1926-QUZNN,0.0163,0,4551,25.25,No dependents,Paperless billing,No tech support
+9025-ZRPVR,0.1675,1,5403,18.95,New customer (9 months),Month-to-month contract,No dependents
+6527-PZFPV,0.0148,0,4654,20.8,Paperless billing,No tech support,No online security
+7460-ITWWP,0.4656,0,2701,86.1,Fiber optic internet,Month-to-month contract,No dependents
+1530-ZTDOZ,0.1949,0,5565,40.65,Month-to-month contract,No dependents,No tech support
+4785-FCIFB,0.0158,0,4900,24.4,No dependents,No tech support,No online security
+9717-QEBGU,0.7529,0,2980,70.3,New customer (2 months),Fiber optic internet,Month-to-month contract
+0876-WDUUZ,0.6618,1,3716,85.4,New customer (5 months),Fiber optic internet,Month-to-month contract
+7881-EVUAD,0.6455,1,4648,42.6,New customer (2 months),Month-to-month contract,No dependents
+4002-BQWPQ,0.1394,0,5917,81.75,Month-to-month contract,No dependents,Relatively short tenure (25 months)
+6377-WHAOX,0.5551,0,4115,106.15,Fiber optic internet,Month-to-month contract,No dependents
+5027-YOCXN,0.1709,0,5604,110.05,Fiber optic internet,No dependents,
+8450-JOVAH,0.1587,1,5560,56.7,New customer (2 months),Month-to-month contract,No tech support
+6646-QVXLR,0.3645,1,5052,103.75,Fiber optic internet,No dependents,Pays by electronic check
+0254-KCJGT,0.0828,0,4628,81.4,No dependents,Paperless billing,No device protection
+3442-ZHHCC,0.0551,0,5355,76.9,No dependents,Paperless billing,No tech support
+9167-APMXZ,0.5224,0,3549,84.15,Fiber optic internet,Month-to-month contract,No dependents
+0616-ATFGB,0.6881,1,2119,25.05,New customer (1 month),Month-to-month contract,No dependents
+7273-TEFQD,0.7405,1,2314,41.15,New customer (3 months),Month-to-month contract,No dependents
+8245-UMPYT,0.7191,1,2688,96.4,Fiber optic internet,Month-to-month contract,No dependents
+6022-UGGSO,0.3797,1,2091,74.4,Fiber optic internet,Month-to-month contract,No dependents
+6292-TOSSS,0.0164,0,4297,24.9,No dependents,No tech support,No online security
+5207-PLSTK,0.1613,0,5068,48.75,New customer (1 month),Month-to-month contract,Paperless billing
+3908-BLSYF,0.7232,1,3962,83.9,New customer (6 months),Fiber optic internet,Month-to-month contract
+4317-VTEOA,0.5556,1,5355,50.75,New customer (1 month),Month-to-month contract,No dependents
+0625-AFOHS,0.0045,0,2784,20.2,No tech support,No online security,No online backup
+4667-OHGKG,0.3141,1,4266,19.3,New customer (1 month),Month-to-month contract,No dependents
+2386-OWURY,0.3775,0,6460,95.3,Fiber optic internet,Month-to-month contract,No dependents
+3780-DDGSE,0.0856,0,5479,76.05,Month-to-month contract,Pays by electronic check,Paperless billing
+1047-RNXZV,0.0107,0,4871,19.55,No dependents,No tech support,No online security
+3926-YZVVX,0.0393,0,2157,50.05,No dependents,No online security,No online backup
+4742-TXUEX,0.0027,0,5829,19.3,No tech support,No online security,No online backup
+8709-KRDVL,0.5871,0,4643,100.0,Fiber optic internet,Month-to-month contract,No dependents
+0397-ZXWQF,0.0074,0,4416,20.5,No dependents,No tech support,No online security
+3910-MRQOY,0.0085,0,5398,19.4,No dependents,No tech support,No online security
+2511-MORQY,0.0929,0,4322,54.9,No dependents,No tech support,No online security
+4039-PIMHX,0.032,0,4306,49.8,No dependents,No tech support,No online security
+8083-YTZES,0.7988,1,3622,74.35,New customer (4 months),Fiber optic internet,Month-to-month contract
+1346-PJWTK,0.198,0,4806,94.15,Fiber optic internet,Month-to-month contract,No dependents
+3750-YHRYO,0.0883,0,2874,20.65,New customer (7 months),No dependents,No tech support
+1236-WFCDV,0.4966,1,4777,90.45,Fiber optic internet,Month-to-month contract,No dependents
+5949-HGVJL,0.3522,0,2753,73.05,Month-to-month contract,No dependents,Pays by electronic check
+9112-WSNPU,0.3162,0,5873,70.55,Fiber optic internet,Month-to-month contract,No dependents
+1360-JYXKQ,0.3017,0,4118,99.1,Fiber optic internet,No dependents,Pays by electronic check
+3585-ISXZP,0.6373,1,5335,95.65,Fiber optic internet,New customer (8 months),Month-to-month contract
+8380-PEFPE,0.7583,1,2377,71.65,New customer (1 month),Fiber optic internet,Month-to-month contract
+9402-ROUMJ,0.0316,0,5588,100.25,Fiber optic internet,Paperless billing,No online backup
+4335-UPJSI,0.0038,0,2639,19.75,No tech support,No online security,No online backup
+6096-EGVTU,0.0065,0,5038,24.9,No tech support,No online security,No online backup
+8988-ECPJR,0.4263,1,3980,79.6,Fiber optic internet,Month-to-month contract,No dependents
+7677-SJJJK,0.0864,0,3152,19.9,New customer (8 months),No dependents,No tech support
+5850-BDWCY,0.2244,0,5029,20.2,New customer (6 months),Month-to-month contract,No dependents
+2025-JKFWI,0.58,1,3493,99.0,Fiber optic internet,Month-to-month contract,No dependents
+8028-PNXHQ,0.0213,0,4444,24.25,No dependents,Paperless billing,No tech support
+8397-MVTAZ,0.6724,1,2568,100.05,Fiber optic internet,Month-to-month contract,No dependents
+4445-ZJNMU,0.6749,0,3540,99.3,Fiber optic internet,New customer (9 months),Month-to-month contract
+3125-RAHBV,0.0403,0,2768,20.3,No dependents,No tech support,No online security
+6682-QJDGB,0.0215,1,2810,55.25,Month-to-month contract,Paperless billing,No tech support
+8840-DQLGN,0.3497,1,4745,100.5,Fiber optic internet,Month-to-month contract,No dependents
+6258-NGCNG,0.176,0,5508,23.5,New customer (7 months),Month-to-month contract,No dependents
+5917-RYRMG,0.0319,0,3836,19.8,No dependents,No tech support,No online security
+7157-SMCFK,0.0018,0,5411,19.75,No tech support,No online security,No online backup
+0816-TSPHQ,0.245,0,3976,20.75,New customer (2 months),Month-to-month contract,No dependents
+6766-HFKLA,0.1142,0,4534,103.2,Fiber optic internet,No dependents,No online security
+7067-KSAZT,0.3498,1,5965,106.25,Fiber optic internet,No dependents,Pays by electronic check
+5155-AZQPB,0.0587,0,5250,49.9,Month-to-month contract,No tech support,No online security
+6890-PFRQX,0.218,0,4466,69.5,Month-to-month contract,No dependents,Relatively short tenure (18 months)
+3508-VLHCZ,0.0072,0,6009,90.55,Paperless billing,No device protection,
+3649-JPUGY,0.0338,0,5842,88.6,No dependents,Paperless billing,No online security
+9248-OJYKK,0.8175,1,3763,76.45,New customer (1 month),Fiber optic internet,Month-to-month contract
+7239-HZZCX,0.2499,1,4851,19.75,New customer (1 month),Month-to-month contract,No dependents
+9860-LISIZ,0.0598,0,2864,20.35,Month-to-month contract,No dependents,No tech support
+6979-ZNSFF,0.7231,1,2545,87.05,Fiber optic internet,New customer (8 months),Month-to-month contract
+8938-UMKPI,0.4978,1,4804,106.4,Fiber optic internet,Month-to-month contract,No dependents
+1820-DJFPH,0.0034,0,4755,24.05,Paperless billing,No tech support,No online security
+0732-OCQOC,0.0281,0,5674,25.05,No dependents,Paperless billing,No tech support
+6776-TLWOI,0.2395,1,2158,19.85,New customer (3 months),Month-to-month contract,No dependents
+4940-KHCWD,0.0196,0,5148,37.7,No dependents,,
+9057-SIHCH,0.8769,1,3260,96.6,New customer (3 months),Fiber optic internet,Month-to-month contract
+9866-QEVEE,0.5463,1,4857,86.0,Fiber optic internet,Month-to-month contract,No dependents
+5542-TBBWB,0.7576,0,3358,69.9,New customer (1 month),Fiber optic internet,Month-to-month contract
+4587-VVTOX,0.8852,1,4163,105.3,New customer (6 months),Fiber optic internet,Month-to-month contract
+6322-HRPFA,0.0165,0,4986,59.6,Month-to-month contract,,
+6284-AHOOQ,0.4633,1,5014,90.5,Fiber optic internet,Month-to-month contract,No dependents
+4530-NDRKU,0.0129,0,5091,19.05,Pays by electronic check,Paperless billing,No tech support
+1751-NCDLI,0.6088,0,2641,98.85,Fiber optic internet,Month-to-month contract,No dependents
+3893-JRNFS,0.1693,0,6270,39.9,Month-to-month contract,No dependents,Paperless billing
+5857-XRECV,0.031,0,4486,20.5,New customer (2 months),No tech support,No online security
+3115-CZMZD,0.07,0,5504,20.25,New customer (0 months),No dependents,No tech support
+4489-SNOJF,0.051,1,5898,72.25,Month-to-month contract,Pays by electronic check,No online backup
+1051-GEJLJ,0.2444,0,4836,19.5,New customer (2 months),Month-to-month contract,No dependents
+3563-SVYLG,0.0023,0,5215,62.65,No device protection,,
+4301-VVZKA,0.6501,0,5432,75.4,Fiber optic internet,Month-to-month contract,No dependents
+9351-HXDMR,0.0798,0,4938,110.9,Fiber optic internet,No dependents,Paperless billing
+5161-XEUVX,0.1049,0,2615,94.3,Fiber optic internet,No dependents,No online security
+3088-FVYWK,0.0042,0,5794,25.55,No tech support,No online security,No online backup
+9812-GHVRI,0.3362,0,4294,83.85,Fiber optic internet,Month-to-month contract,No dependents
+1370-GGAWX,0.2628,0,3924,94.15,Fiber optic internet,No dependents,Pays by electronic check
+6023-YEBUP,0.8759,1,5351,100.95,New customer (3 months),Fiber optic internet,Month-to-month contract
+9940-RHLFB,0.6921,1,2176,75.3,New customer (1 month),Fiber optic internet,Month-to-month contract
+4541-RMRLG,0.1826,1,4489,19.25,New customer (7 months),Month-to-month contract,No dependents
+2606-RMDHZ,0.5406,1,4667,30.5,New customer (6 months),Month-to-month contract,No dependents
+5575-TPIZQ,0.2985,0,5593,89.15,Fiber optic internet,Month-to-month contract,No dependents
+9378-FXTIZ,0.1857,1,4596,70.15,No dependents,Paperless billing,No tech support
+4631-OACRM,0.5901,1,3621,79.4,Fiber optic internet,Month-to-month contract,No dependents
+8593-WHYHV,0.8447,1,4934,85.3,New customer (3 months),Fiber optic internet,Month-to-month contract
+1403-GYAFU,0.0019,0,4485,20.05,No tech support,No online security,No online backup
+7641-TQFHN,0.0231,0,3124,100.55,Fiber optic internet,No online security,No online backup
+4237-CLSMM,0.301,0,4823,20.0,New customer (2 months),Month-to-month contract,No dependents
+4360-PNRQB,0.4811,0,4030,75.6,Fiber optic internet,Month-to-month contract,No dependents
+5334-AFQJB,0.0126,0,5751,25.1,No dependents,Paperless billing,No tech support
+9308-ANMVE,0.0259,0,5491,55.3,Month-to-month contract,Pays by electronic check,Paperless billing
+3530-VWVGU,0.0236,0,5657,19.9,Month-to-month contract,No tech support,No online security
+4674-HGNUA,0.0052,0,4444,89.9,No device protection,,
+3030-YDNRM,0.6638,0,5514,74.85,Fiber optic internet,New customer (8 months),Month-to-month contract
+3642-BYHDO,0.0019,0,5789,19.9,No tech support,No online security,No online backup
+0440-UEDAI,0.1294,0,5452,94.45,Fiber optic internet,No dependents,Paperless billing
+9819-FBNSV,0.3598,0,4121,72.25,Fiber optic internet,Month-to-month contract,No dependents
+9289-LBQVU,0.082,0,5037,70.15,No dependents,Paperless billing,No online security
+4468-YDOVK,0.12,0,3307,48.65,New customer (5 months),Month-to-month contract,Paperless billing
+2001-EWBQU,0.1296,0,6186,104.7,Fiber optic internet,No dependents,Pays by electronic check
+9992-UJOEL,0.4562,0,5870,50.3,New customer (2 months),Month-to-month contract,No dependents
+8409-WQJUX,0.1975,0,4458,54.2,No dependents,Pays by electronic check,No online security
+3077-RSNTJ,0.0732,0,4293,19.7,New customer (6 months),Month-to-month contract,No tech support
+6993-YCOBK,0.0339,0,5756,110.6,Fiber optic internet,Pays by electronic check,Paperless billing
+4817-VYYWS,0.6056,1,3598,100.2,Fiber optic internet,Month-to-month contract,No dependents
+4702-HDRKD,0.0514,0,5905,49.35,No dependents,Paperless billing,No online backup
+3251-YMVWZ,0.0314,0,4865,24.05,No dependents,No tech support,No online security
+4190-MFLUW,0.2315,1,5925,55.2,New customer (10 months),Month-to-month contract,No dependents
+4678-DVQEO,0.515,1,4138,52.2,New customer (1 month),Month-to-month contract,No dependents
+4701-AHWMW,0.2813,1,6041,54.55,Month-to-month contract,No dependents,Paperless billing
+2987-BJXIK,0.0244,0,4180,84.7,No dependents,No tech support,No device protection
+1730-VFMWO,0.1234,0,4352,50.2,Month-to-month contract,No dependents,No online security
+1936-UAFEH,0.0445,0,5502,110.25,Fiber optic internet,No dependents,
+5140-FOMCQ,0.2327,0,5186,109.15,Fiber optic internet,No dependents,Paperless billing
+8778-LMWTJ,0.5028,0,5770,74.85,Fiber optic internet,New customer (9 months),Month-to-month contract
+9840-DVNDC,0.7129,1,2181,80.5,New customer (6 months),Fiber optic internet,Month-to-month contract
+8033-VCZGH,0.3809,0,4363,103.95,Fiber optic internet,No dependents,Pays by electronic check
+8580-QVLOC,0.0244,1,5697,92.45,No dependents,No device protection,
+6128-AQBMT,0.4317,0,3920,53.95,Month-to-month contract,No dependents,Pays by electronic check
+6257-RJOHI,0.4025,0,4521,50.8,New customer (4 months),Month-to-month contract,No dependents
+1929-ZCBHE,0.0152,0,5040,40.3,Pays by electronic check,No online backup,No device protection
+6242-SGYTS,0.0413,0,4262,94.95,Fiber optic internet,Paperless billing,No tech support
+7010-ZMVBF,0.0264,0,2047,20.45,Month-to-month contract,Relatively short tenure (18 months),No tech support
+3519-ZKXGG,0.8449,1,4062,75.85,New customer (3 months),Fiber optic internet,Month-to-month contract
+5666-MBJPT,0.0149,0,5449,25.1,No dependents,Paperless billing,No tech support
+3313-QKNKB,0.2681,1,6304,85.55,Fiber optic internet,No dependents,Pays by electronic check
+7581-EBBOU,0.0503,0,4260,70.15,No dependents,Paperless billing,No online security
+1784-BXEFA,0.164,0,3595,20.55,New customer (10 months),Month-to-month contract,No dependents
+7492-TAFJD,0.0874,0,3345,38.55,New customer (7 months),No dependents,No tech support
+5213-TWWJU,0.3514,0,2448,91.0,Fiber optic internet,Month-to-month contract,No dependents
+3312-ZWLGF,0.5102,0,3172,79.3,Fiber optic internet,Month-to-month contract,No dependents
+2923-ARZLG,0.0572,0,4890,19.7,New customer (0 months),Paperless billing,No tech support
+7032-LMBHI,0.0747,0,5255,64.65,No dependents,No tech support,No online backup
+8292-ITGYJ,0.0055,0,3043,24.65,Paperless billing,No tech support,No online security
+9107-UKCKY,0.1968,0,6432,79.8,No dependents,Pays by electronic check,Paperless billing
+6848-HJTXY,0.0105,0,5628,19.45,No dependents,No tech support,No online security
+4184-VODJZ,0.0779,0,4512,91.35,Fiber optic internet,Pays by electronic check,Paperless billing
+4846-WHAFZ,0.1874,1,2793,76.5,Fiber optic internet,Month-to-month contract,Pays by electronic check
+8735-SDUFN,0.0122,0,4397,24.3,No dependents,No tech support,No online security
+0839-JTCUD,0.0274,0,4082,89.9,No dependents,No device protection,
+6857-VWJDT,0.7898,1,3473,95.65,New customer (1 month),Fiber optic internet,Month-to-month contract
+7363-QTBIW,0.7122,0,4654,79.75,Fiber optic internet,New customer (9 months),Month-to-month contract
+6158-HDPXZ,0.5246,0,4193,25.35,New customer (1 month),Month-to-month contract,No dependents
+5419-CONWX,0.7615,1,2268,99.8,New customer (4 months),Fiber optic internet,Month-to-month contract
+9286-DOJGF,0.4307,1,5165,74.95,Fiber optic internet,Month-to-month contract,No dependents
+2408-PSJVE,0.027,0,4388,61.9,Month-to-month contract,Paperless billing,No online security
+2087-QAREY,0.2352,0,5722,54.7,Month-to-month contract,No dependents,Paperless billing
+6777-TGHTM,0.2312,1,5550,106.95,Fiber optic internet,No dependents,Paperless billing
+6507-ZJSUR,0.6723,0,5272,90.45,Fiber optic internet,Month-to-month contract,No dependents
+5025-GOOKI,0.1143,0,4277,18.9,Month-to-month contract,No dependents,Paperless billing
+6080-LNESI,0.0158,0,5080,24.75,No dependents,No tech support,No online security
+2236-HILPA,0.0024,0,6403,20.65,No tech support,No online security,No online backup
+1386-ZIKUV,0.1756,0,4097,18.95,New customer (7 months),Month-to-month contract,No dependents
+3365-SAIGS,0.5343,0,5564,83.55,Fiber optic internet,Month-to-month contract,No dependents
+6061-GWWAV,0.0096,0,5365,70.2,No tech support,No device protection,
+9979-RGMZT,0.4266,0,5545,94.05,Fiber optic internet,New customer (7 months),No dependents
+8445-DNBAE,0.2856,0,5523,50.05,New customer (1 month),Month-to-month contract,Pays by electronic check
+6872-HXFNF,0.0504,0,5331,58.35,No dependents,No online security,No online backup
+1320-HTRDR,0.8035,1,5948,75.5,New customer (3 months),Fiber optic internet,Month-to-month contract
+3923-CSIHK,0.4293,1,5746,71.05,Fiber optic internet,Month-to-month contract,No dependents
+2446-ZKVAF,0.2601,0,5558,56.8,Month-to-month contract,No dependents,Relatively short tenure (18 months)
+4640-UHDOS,0.3865,1,4498,55.95,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+5457-COLHT,0.004,0,4618,80.65,,,
+2254-DLXRI,0.7255,0,2742,79.15,New customer (1 month),Fiber optic internet,Month-to-month contract
+5339-PXDVH,0.7333,0,3559,90.65,New customer (4 months),Fiber optic internet,Month-to-month contract
+2386-LAHRK,0.5598,1,5094,53.5,New customer (1 month),Month-to-month contract,No dependents
+5062-CJJKH,0.02,0,5854,53.65,No tech support,No online security,No device protection
+8930-XOTDP,0.0718,0,2035,55.95,Month-to-month contract,Relatively short tenure (18 months),No tech support
+4779-ZGICK,0.0036,0,5019,23.55,No tech support,No online security,No online backup
+9534-NSXEM,0.0494,0,2194,20.65,No dependents,Paperless billing,No tech support
+3716-BDVDB,0.7573,1,5795,69.1,New customer (1 month),Fiber optic internet,Month-to-month contract
+9842-EFSYY,0.2421,0,2421,57.2,New customer (4 months),Month-to-month contract,Paperless billing
+9122-UMROB,0.2501,0,4270,20.3,New customer (1 month),Month-to-month contract,No dependents
+1867-BDVFH,0.708,1,5075,74.35,Fiber optic internet,Month-to-month contract,New customer (11 months)
+5949-EBSQK,0.1523,1,2131,61.45,New customer (4 months),Month-to-month contract,No online security
+4160-AMJTL,0.1849,1,5432,19.65,New customer (8 months),Month-to-month contract,No dependents
+8622-ZLFKO,0.8562,0,4297,90.75,New customer (6 months),Fiber optic internet,Month-to-month contract
+2990-IAJSV,0.0181,0,4200,92.0,No dependents,No device protection,
+6064-ZATLR,0.0237,0,2842,52.85,No dependents,No tech support,
+7409-KIUTL,0.7648,1,5345,71.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+5505-OVWQW,0.0457,0,4650,20.15,No dependents,Relatively short tenure (17 months),No tech support
+3948-KXDUF,0.0116,0,5454,68.75,No dependents,No device protection,
+9814-AOUDH,0.0108,0,5625,19.5,No dependents,No tech support,No online security
+7398-LXGYX,0.3074,0,2770,84.8,Fiber optic internet,Month-to-month contract,No dependents
+5266-PFRQK,0.0091,0,4886,20.85,Paperless billing,No tech support,No online security
+1568-BEKZM,0.0256,0,4666,90.05,No dependents,No device protection,
+2692-PFYTJ,0.388,0,2569,25.75,New customer (1 month),Month-to-month contract,No dependents
+2533-QVMSK,0.1296,1,6295,94.1,Fiber optic internet,No dependents,Pays by electronic check
+5828-AVIPD,0.5185,1,4072,100.95,Fiber optic internet,No dependents,Pays by electronic check
+2907-ILJBN,0.0796,0,4047,20.6,New customer (11 months),No dependents,No tech support
+5226-NOZFC,0.4786,0,3178,85.75,Fiber optic internet,Month-to-month contract,No dependents
+7114-AEOZE,0.009,0,6213,19.85,No dependents,No tech support,No online security
+2202-CUYXZ,0.8018,1,3086,84.85,New customer (1 month),Fiber optic internet,Month-to-month contract
+3466-RITXD,0.3886,0,5461,92.4,Fiber optic internet,Month-to-month contract,No dependents
+7278-CKDNC,0.5131,0,4422,80.5,Fiber optic internet,Month-to-month contract,No dependents
+1956-YIFGE,0.1068,0,3274,100.05,Fiber optic internet,Paperless billing,No tech support
+0422-UXFAP,0.45,0,6034,98.85,Fiber optic internet,No dependents,Pays by electronic check
+3733-UOCWF,0.1483,0,4845,85.55,Fiber optic internet,No dependents,Paperless billing
+7191-ADRGF,0.0704,0,3222,54.3,No dependents,No tech support,No online security
+5709-LVOEQ,0.1906,0,2048,80.85,New customer (0 months),No dependents,No tech support
+6034-YMTOB,0.5943,0,2296,75.65,New customer (5 months),Fiber optic internet,Month-to-month contract
+6372-RFVNS,0.7975,1,5075,78.8,New customer (1 month),Fiber optic internet,Month-to-month contract
+9052-DHNKM,0.0954,0,5156,61.55,No dependents,Pays by electronic check,No tech support
+5609-IMCGG,0.417,0,3314,84.35,Fiber optic internet,Month-to-month contract,No dependents
+2959-MJHIC,0.834,1,4167,80.35,New customer (4 months),Fiber optic internet,Month-to-month contract
+1319-YLZJG,0.5214,0,2499,84.6,Fiber optic internet,Month-to-month contract,New customer (12 months)
+7623-TRNQN,0.1309,1,3113,49.9,New customer (1 month),Month-to-month contract,Paperless billing
+0377-JBKKT,0.034,0,5036,57.95,Month-to-month contract,Paperless billing,Relatively short tenure (22 months)
+1936-CZAKF,0.0802,0,4283,49.65,No dependents,No tech support,No online security
+5063-IUOKK,0.0245,0,2016,19.75,No dependents,Relatively short tenure (13 months),No tech support
+8646-JCOMS,0.1279,0,4958,90.55,Fiber optic internet,No dependents,Paperless billing
+0979-MOZQI,0.0503,0,4987,39.0,No dependents,Paperless billing,No online security
+1525-LNLOJ,0.0542,0,4186,63.3,No dependents,Paperless billing,No tech support
+5759-RCVCB,0.5783,1,5450,35.2,New customer (3 months),Month-to-month contract,No dependents
+9968-FFVVH,0.0261,0,5082,68.8,No dependents,No device protection,
+2266-FUBDZ,0.0065,0,2742,19.35,Relatively short tenure (15 months),No tech support,No online security
+4760-THGOT,0.4438,0,4392,94.1,Fiber optic internet,Month-to-month contract,No dependents
+2307-FYNNL,0.1037,0,5692,109.05,Fiber optic internet,No dependents,Pays by electronic check
+1143-NMNQJ,0.8481,1,2187,85.7,New customer (2 months),Fiber optic internet,Month-to-month contract
+1629-DQQVB,0.1484,0,2331,50.1,Month-to-month contract,No dependents,Relatively short tenure (14 months)
+3766-EJLFL,0.0196,0,6391,109.05,Fiber optic internet,Paperless billing,No online backup
+8457-XIGKN,0.1144,0,5909,19.6,Month-to-month contract,No dependents,Paperless billing
+4981-FLTMF,0.0186,0,4491,65.2,Month-to-month contract,,
+7606-BPHHN,0.0088,0,5368,19.8,No dependents,Paperless billing,No tech support
+7005-CCBKV,0.7644,1,4539,84.4,New customer (6 months),Fiber optic internet,Month-to-month contract
+4648-YPBTM,0.041,0,5644,73.9,No dependents,Paperless billing,No online security
+2325-ZUSFD,0.1001,1,4669,70.1,No dependents,Paperless billing,No tech support
+1240-KNSEZ,0.3145,1,4933,20.1,New customer (1 month),Month-to-month contract,No dependents
+0430-IHCDJ,0.3886,0,2597,49.0,Month-to-month contract,No dependents,Relatively short tenure (15 months)
+7957-RYHQD,0.2006,1,3207,79.2,Fiber optic internet,Month-to-month contract,No dependents
+6164-HAQTX,0.0148,0,4094,53.95,No dependents,No device protection,
+0749-IRGQE,0.5722,0,4118,45.3,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+1227-UDMZR,0.0327,0,4311,91.15,No dependents,Paperless billing,No device protection
+5473-KHBPS,0.0712,0,4415,95.7,Fiber optic internet,Paperless billing,No tech support
+5297-MDOIR,0.109,0,5294,81.15,Fiber optic internet,No dependents,Paperless billing
+8873-TMKGR,0.0331,0,5880,19.1,No dependents,No tech support,No online security
+6481-ESCNL,0.4709,0,4847,100.55,Fiber optic internet,Month-to-month contract,No dependents
+0463-WZZKO,0.3034,0,2406,20.75,New customer (3 months),Month-to-month contract,No dependents
+1038-RQOST,0.0258,0,2276,20.6,Month-to-month contract,Relatively short tenure (19 months),No tech support
+4937-QPZPO,0.1163,0,5641,99.9,Fiber optic internet,Pays by electronic check,Paperless billing
+3604-WLABM,0.2462,0,2253,54.25,New customer (10 months),Month-to-month contract,No dependents
+1360-XFJMR,0.2035,0,4017,109.7,Fiber optic internet,No dependents,Paperless billing
+8717-VCTXJ,0.0316,0,5293,19.55,No dependents,Paperless billing,No tech support
+5196-SGOAK,0.7357,1,4884,75.7,New customer (1 month),Fiber optic internet,Month-to-month contract
+8739-XNIKG,0.8349,0,4456,84.0,New customer (5 months),Fiber optic internet,Month-to-month contract
+2320-TZRRH,0.0421,0,4700,19.5,No dependents,Relatively short tenure (20 months),No tech support
+5186-SAMNZ,0.6932,1,3273,69.5,New customer (1 month),Fiber optic internet,Month-to-month contract
+5760-FXFVO,0.6377,0,4093,78.95,New customer (6 months),Fiber optic internet,Month-to-month contract
+5380-WJKOV,0.2216,1,2941,106.35,Fiber optic internet,Month-to-month contract,Pays by electronic check
+4703-MQYKT,0.0196,0,4562,19.6,No dependents,No tech support,No online security
+2001-MCUUW,0.1081,0,4210,108.65,Fiber optic internet,No dependents,Pays by electronic check
+4947-DSMXK,0.2093,0,5789,97.7,Fiber optic internet,Month-to-month contract,Paperless billing
+0076-LVEPS,0.033,0,3290,45.0,Month-to-month contract,Paperless billing,No device protection
+5566-SOEZD,0.0426,0,5856,80.65,Fiber optic internet,Paperless billing,No tech support
+7408-OFWXJ,0.0236,0,5762,89.8,No dependents,No device protection,
+1097-FSPVW,0.075,0,5387,54.55,Month-to-month contract,No dependents,No tech support
+4412-YLTKF,0.1818,1,4638,78.05,Fiber optic internet,Month-to-month contract,Pays by electronic check
+0420-TXVSG,0.0277,0,5933,66.1,No dependents,Paperless billing,No tech support
+7817-BOQPW,0.8078,1,4320,75.55,New customer (2 months),Fiber optic internet,Month-to-month contract
+0963-ZBDRN,0.4729,1,3606,96.2,Fiber optic internet,Month-to-month contract,No dependents
+9685-WKZGT,0.6051,1,2075,74.95,Fiber optic internet,Month-to-month contract,No dependents
+2139-FQHLM,0.316,0,3402,89.95,Fiber optic internet,Month-to-month contract,No dependents
+5825-XJOCM,0.0116,0,2545,64.4,Paperless billing,No tech support,No device protection
+0004-TLHLJ,0.7401,1,4479,73.9,New customer (4 months),Fiber optic internet,Month-to-month contract
+7529-ZDFXI,0.5105,0,4429,89.85,Fiber optic internet,Month-to-month contract,No dependents
+6848-YLDFR,0.0206,0,4559,75.2,Paperless billing,No online security,
+5820-PTRYM,0.0581,0,4368,68.45,No dependents,Paperless billing,No device protection
+2984-RGEYA,0.0093,0,5325,19.75,No dependents,No tech support,No online security
+6434-TTGJP,0.0184,0,5671,53.7,New customer (10 months),No device protection,
+9643-AVVWI,0.3523,0,4264,80.0,New customer (3 months),Fiber optic internet,Month-to-month contract
+3506-OVLKD,0.0392,0,4419,26.2,No dependents,No tech support,No online security
+4946-EDSEW,0.0496,1,5638,19.25,Month-to-month contract,New customer (11 months),Paperless billing
+2924-KHUVI,0.3462,0,4847,100.55,Fiber optic internet,No dependents,Pays by electronic check
+2263-SFSQZ,0.0061,0,5461,24.95,Paperless billing,No tech support,No online security
+5281-BUZGT,0.454,1,5692,90.85,Fiber optic internet,Month-to-month contract,No dependents
+3717-FDJFU,0.0134,0,3353,20.45,New customer (5 months),No tech support,No online security
+2239-CFOUJ,0.0411,0,4540,20.4,New customer (1 month),No tech support,No online security
+8699-ASUFO,0.6594,1,4969,74.4,Fiber optic internet,New customer (7 months),Month-to-month contract
+1122-YJBCS,0.0383,0,6092,53.65,No dependents,Paperless billing,No tech support
+0628-CNQRM,0.106,1,3378,67.5,No dependents,Paperless billing,Relatively short tenure (22 months)
+1705-GUHPV,0.0113,0,4948,24.2,No dependents,No tech support,No online security
+4877-TSOFF,0.0173,0,4489,75.75,Paperless billing,,
+7404-JLKQG,0.5552,0,4099,57.55,New customer (3 months),Month-to-month contract,No dependents
+0379-DJQHR,0.0254,0,4219,81.35,No dependents,No tech support,No device protection
+8993-PHFWD,0.6013,1,2088,25.25,New customer (3 months),Month-to-month contract,No dependents
+3930-ZGWVE,0.2499,0,2484,19.75,New customer (1 month),Month-to-month contract,No dependents
+1965-DDBWU,0.4935,1,5953,89.05,Fiber optic internet,Month-to-month contract,No dependents
+7572-KPVKK,0.0332,0,5900,104.05,Fiber optic internet,Pays by electronic check,Paperless billing
+6854-EXGSF,0.2827,0,3033,65.5,New customer (8 months),Month-to-month contract,No dependents
+9483-GCPWE,0.014,0,3444,20.1,New customer (9 months),No tech support,No online security
+8053-WWDRO,0.2795,1,5579,19.5,New customer (6 months),Month-to-month contract,No dependents
+9473-CBZOP,0.071,0,4891,59.0,No dependents,No tech support,No online backup
+3985-HOYPM,0.036,0,4602,19.4,No dependents,No tech support,No online security
+8378-LKJAF,0.21,0,3738,101.15,Fiber optic internet,Month-to-month contract,Paperless billing
+1310-QRITU,0.37,0,5877,50.3,Month-to-month contract,No dependents,Pays by electronic check
+3237-AJGEH,0.2287,1,5122,31.0,New customer (3 months),Month-to-month contract,Paperless billing
+6542-LWGXJ,0.5809,0,2730,25.0,New customer (3 months),Month-to-month contract,No dependents
+6953-PBDIN,0.0251,0,6466,72.95,No dependents,No online security,No device protection
+6332-FBZRI,0.0093,0,5589,69.35,Paperless billing,No device protection,
+9365-CSLBQ,0.0019,0,4155,24.35,No tech support,No online security,No online backup
+3466-WAESX,0.0996,0,5172,69.1,Month-to-month contract,Pays by electronic check,Relatively short tenure (16 months)
+9700-ISPUP,0.1304,0,3137,65.5,New customer (10 months),Month-to-month contract,Pays by electronic check
+5167-ZFFMM,0.7799,1,3424,90.85,New customer (1 month),Fiber optic internet,Month-to-month contract
+7669-LCRSD,0.1254,0,2047,56.3,Month-to-month contract,New customer (12 months),Paperless billing
+0870-VEMYL,0.2561,1,5435,53.85,New customer (5 months),Month-to-month contract,No dependents
+2995-UPRYS,0.2257,1,5098,99.2,Fiber optic internet,No dependents,Paperless billing
+3179-GBRWV,0.246,0,4604,64.95,Month-to-month contract,No dependents,Paperless billing
+0701-TJSEF,0.2371,0,4366,68.25,New customer (9 months),Month-to-month contract,No dependents
+1848-LBZHY,0.3065,0,2547,50.3,New customer (7 months),Month-to-month contract,No dependents
+5380-XPJNZ,0.0258,0,4539,20.05,No dependents,No tech support,No online security
+6608-QQLVK,0.5817,1,2077,50.5,New customer (1 month),Month-to-month contract,No dependents
+1475-VWVDO,0.5923,0,5335,74.9,Fiber optic internet,New customer (7 months),Month-to-month contract
+3721-CNEYS,0.7531,1,5390,70.95,New customer (2 months),Fiber optic internet,Month-to-month contract
+4299-OPXEJ,0.0138,0,5764,19.55,No dependents,Paperless billing,No tech support
+0096-BXERS,0.6205,0,3442,50.35,New customer (6 months),Month-to-month contract,No dependents
+3055-VTCGS,0.0496,0,6312,58.55,No dependents,No tech support,No online security
+9405-GPBBG,0.089,0,5718,110.5,Fiber optic internet,No dependents,Paperless billing
+6704-UTUKK,0.5351,0,5074,45.9,Month-to-month contract,No dependents,Pays by electronic check
+9944-AEXBM,0.4625,0,2383,85.65,Fiber optic internet,Month-to-month contract,No dependents
+2545-EBUPK,0.8523,0,5039,84.05,New customer (2 months),Fiber optic internet,Month-to-month contract
+6270-OMFIW,0.2953,1,4990,94.4,Fiber optic internet,No dependents,Pays by electronic check
+1852-XEMDW,0.1446,0,4709,65.05,Month-to-month contract,No dependents,No tech support
+8158-WPEZG,0.3803,0,4986,35.65,Month-to-month contract,New customer (11 months),No dependents
+5198-EFNBM,0.2594,0,5636,90.65,Fiber optic internet,No dependents,Pays by electronic check
+7663-RGWBC,0.4922,1,4773,44.15,New customer (1 month),Month-to-month contract,No dependents
+3970-XGJDU,0.0115,0,4937,19.2,No dependents,Paperless billing,No tech support
+6845-RGTYS,0.4121,1,4622,98.75,Fiber optic internet,Month-to-month contract,No dependents
+0123-CRBRT,0.031,0,5152,88.1,No dependents,No device protection,
+6077-BDPXA,0.7477,0,2228,70.15,New customer (3 months),Fiber optic internet,Month-to-month contract
+2250-IVBWA,0.0466,0,5168,81.05,Fiber optic internet,Month-to-month contract,Pays by electronic check
+6137-NICCO,0.4523,0,3083,94.05,New customer (6 months),Fiber optic internet,Month-to-month contract
+8129-GMVGI,0.0028,0,5172,20.05,No tech support,No online security,No online backup
+4353-HYOJD,0.0398,0,5580,49.85,Month-to-month contract,No tech support,No online security
+8671-KKKOS,0.2015,0,5565,45.55,Month-to-month contract,No dependents,Pays by electronic check
+8080-DDEMJ,0.5153,1,4499,45.1,New customer (1 month),Month-to-month contract,No dependents
+6698-OXETB,0.0296,0,5397,20.4,New customer (11 months),No dependents,No tech support
+3312-UUMZW,0.5725,0,3981,98.85,Fiber optic internet,Month-to-month contract,No dependents
+6376-GAHQE,0.7319,1,2140,77.85,New customer (4 months),Fiber optic internet,Month-to-month contract
+0733-VUNUW,0.202,1,4126,55.65,Month-to-month contract,No dependents,Paperless billing
+6733-LRIZX,0.1541,0,5903,108.95,Fiber optic internet,No dependents,Pays by electronic check
+2165-VOEGB,0.1171,1,3322,105.2,Fiber optic internet,No dependents,Paperless billing
+1853-UDXBW,0.8061,1,2485,70.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+9070-BCKQP,0.0789,0,4498,110.15,Fiber optic internet,No dependents,Paperless billing
+1035-IPQPU,0.5428,0,5187,103.5,Fiber optic internet,Month-to-month contract,No dependents
+2057-ZBLPD,0.6857,1,2036,86.5,Fiber optic internet,Month-to-month contract,No dependents
+6967-PEJLL,0.0273,0,2308,40.2,Pays by electronic check,Paperless billing,No online backup
+7879-CGSFV,0.1543,0,5101,100.9,Fiber optic internet,No dependents,Paperless billing
+2257-BOVXD,0.3762,0,3516,66.6,Month-to-month contract,No dependents,Relatively short tenure (14 months)
+9822-BIIGN,0.0439,0,4903,71.85,Month-to-month contract,Pays by electronic check,No online backup
+1136-XGEQU,0.1461,0,4625,84.15,No dependents,Paperless billing,No online security
+2439-LYPMQ,0.6309,0,5469,102.6,Fiber optic internet,Month-to-month contract,No dependents
+6543-XRMYR,0.6147,1,3548,99.7,Fiber optic internet,Month-to-month contract,No dependents
+5753-QQWPW,0.0696,0,4131,59.9,No dependents,Pays by electronic check,Paperless billing
+4785-QRJHC,0.1422,1,4011,59.9,No dependents,Paperless billing,No online security
+0052-YNYOT,0.0221,0,5462,20.55,No dependents,Pays by electronic check,No tech support
+7054-LGEQW,0.414,1,4888,45.95,New customer (1 month),Month-to-month contract,No dependents
+0608-JDVEC,0.0223,0,5914,19.8,No dependents,Pays by electronic check,No tech support
+6284-KMNUF,0.3434,0,4615,98.0,Fiber optic internet,No dependents,Pays by electronic check
+6286-SUUWT,0.25,0,5916,19.95,New customer (1 month),Month-to-month contract,No dependents
+3594-KADLU,0.4304,0,3610,35.1,New customer (3 months),Month-to-month contract,No dependents
+0536-ACXIP,0.1284,0,6452,109.55,Fiber optic internet,No dependents,Pays by electronic check
+8869-TORSS,0.0328,1,2681,60.35,No dependents,Paperless billing,No online backup
+0373-AIVNJ,0.1279,0,3755,39.55,New customer (9 months),No dependents,No tech support
+6429-SHBCB,0.3367,0,3349,69.6,Month-to-month contract,No dependents,Relatively short tenure (19 months)
+5751-USDBL,0.0061,0,4280,81.0,No online backup,No device protection,
+6815-ABQFQ,0.3321,0,5800,107.25,Fiber optic internet,No dependents,Pays by electronic check
+9450-TRJUU,0.4478,0,2332,83.15,Fiber optic internet,Month-to-month contract,No dependents
+2805-AUFQN,0.0178,0,3875,19.8,No dependents,No tech support,No online security
+7855-DIWPO,0.4685,0,2006,68.65,Fiber optic internet,Month-to-month contract,No dependents
+0174-QRVVY,0.0026,0,5747,25.35,No tech support,No online security,No online backup
+9507-EXLTT,0.7907,1,3492,79.35,New customer (1 month),Fiber optic internet,Month-to-month contract
+8390-FESFV,0.0315,0,5466,84.5,No dependents,No online security,No device protection
+0661-KBKPA,0.0352,0,5052,78.75,Paperless billing,No online security,No online backup
+6856-RAURS,0.7433,0,2044,74.9,New customer (2 months),Fiber optic internet,Month-to-month contract
+7322-OCWHC,0.0422,0,4988,93.05,Fiber optic internet,No dependents,Paperless billing
+2203-GHNWN,0.5069,0,3816,79.65,Fiber optic internet,Month-to-month contract,No dependents
+3413-CSSTH,0.1794,0,5590,55.7,Month-to-month contract,No dependents,Paperless billing
+3006-XIMLN,0.8353,1,5299,94.2,New customer (2 months),Fiber optic internet,Month-to-month contract
+3750-CKVKH,0.7517,1,2299,67.75,New customer (2 months),Fiber optic internet,Month-to-month contract
+0576-WNXXC,0.6327,1,2999,95.55,Fiber optic internet,Month-to-month contract,No dependents
+7056-IMHCC,0.6109,1,5884,101.9,Fiber optic internet,Month-to-month contract,No dependents
+0866-QLSIR,0.0571,1,5189,64.4,No dependents,Paperless billing,
+1628-BIZYP,0.7872,0,5754,85.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+2230-XTUWL,0.0026,0,5461,19.55,No tech support,No online security,No online backup
+1980-KXVPM,0.7463,1,3553,75.05,New customer (3 months),Fiber optic internet,Month-to-month contract
+8619-IJNDK,0.0097,0,4374,64.05,No dependents,No device protection,
+2960-NKRSO,0.3528,0,5421,85.95,Fiber optic internet,Month-to-month contract,No dependents
+6705-LXORM,0.7378,0,2064,70.05,New customer (5 months),Fiber optic internet,Month-to-month contract
+7130-VTEWQ,0.6731,1,4174,75.75,Fiber optic internet,New customer (8 months),Month-to-month contract
+9364-YKUVW,0.1295,0,2681,19.8,Month-to-month contract,No dependents,Relatively short tenure (15 months)
+2761-OCIAX,0.7376,1,2803,74.7,New customer (2 months),Fiber optic internet,Month-to-month contract
+7996-BPXHY,0.0132,0,4734,25.0,Relatively short tenure (13 months),Paperless billing,No tech support
+4248-QPAVC,0.4865,1,3209,85.35,Fiber optic internet,Month-to-month contract,No dependents
+9357-UJRUN,0.145,0,5428,58.35,No dependents,Pays by electronic check,Paperless billing
+6340-DACFT,0.0033,0,4878,20.55,No tech support,No online security,No online backup
+1023-BQXZE,0.0378,0,5548,74.35,No dependents,Paperless billing,No tech support
+5480-HPRRX,0.6109,1,3542,25.3,New customer (3 months),Month-to-month contract,No dependents
+9576-SYUHJ,0.4382,0,3194,91.15,Fiber optic internet,Month-to-month contract,No dependents
+2169-RRLFW,0.0121,0,5063,25.6,No dependents,No tech support,No online security
+8338-QIUNR,0.0201,0,4397,66.5,No dependents,Paperless billing,No online backup
+0463-TXOAK,0.0033,0,5662,25.6,No tech support,No online security,No online backup
+4396-KLSEH,0.3782,0,5918,19.85,New customer (4 months),Month-to-month contract,No dependents
+5186-EJEGL,0.2338,0,3628,69.5,New customer (9 months),Month-to-month contract,No dependents
+9334-GWGOW,0.7369,0,2259,74.85,Fiber optic internet,New customer (7 months),Month-to-month contract
+5696-JVVQY,0.0072,0,5476,70.1,Paperless billing,No tech support,No device protection
+9633-DENPU,0.1747,0,2613,58.6,Month-to-month contract,No dependents,Paperless billing
+0581-BXBUB,0.6586,0,4503,72.75,New customer (4 months),Fiber optic internet,Month-to-month contract
+2750-BJLSB,0.1691,0,4543,103.7,Fiber optic internet,No dependents,Pays by electronic check
+2770-NSVDG,0.3464,0,4636,29.1,Month-to-month contract,No dependents,Pays by electronic check
+8280-MQRQN,0.4899,1,2806,50.45,New customer (1 month),Month-to-month contract,No dependents
+7851-FLGGQ,0.5743,1,3704,44.65,New customer (1 month),Month-to-month contract,No dependents
+9374-YOLBJ,0.1162,0,2053,19.25,New customer (1 month),Month-to-month contract,Pays by electronic check
+6583-SZVGP,0.1293,0,5994,108.1,Fiber optic internet,No dependents,Paperless billing
+2150-OEGBV,0.0355,0,3428,20.1,No dependents,No tech support,No online security
+9372-TXXPS,0.0131,0,4029,59.85,No dependents,,
+6933-FHBZC,0.0903,0,3079,56.05,No dependents,Paperless billing,No tech support
+4698-KVLLG,0.0118,0,4224,19.6,No dependents,No tech support,No online security
+8752-STIVR,0.7902,1,2085,79.0,New customer (4 months),Fiber optic internet,Month-to-month contract
+8623-ULFNQ,0.3346,0,3225,66.05,Month-to-month contract,No dependents,Pays by electronic check
+9822-WMWVG,0.32,0,4434,106.5,Fiber optic internet,Month-to-month contract,No dependents
+4304-TSPVK,0.0589,0,5782,114.9,Fiber optic internet,No dependents,No device protection
+1716-LSAMB,0.0036,0,5083,54.65,No online backup,,
+3523-QRQLL,0.2073,1,5922,69.5,No dependents,Paperless billing,No tech support
+2187-PKZAY,0.5455,0,2968,79.95,Fiber optic internet,Month-to-month contract,New customer (12 months)
+1895-QTKDO,0.4137,0,5684,43.95,New customer (1 month),Month-to-month contract,No dependents
+8161-QYMTT,0.7798,0,5259,94.1,Fiber optic internet,New customer (7 months),Month-to-month contract
+2955-PSXOE,0.3169,1,3061,20.2,New customer (1 month),Month-to-month contract,No dependents
+6834-NXDCA,0.4298,1,2967,23.9,Month-to-month contract,No dependents,Relatively short tenure (13 months)
+8701-DGLVH,0.0114,0,6097,20.45,No dependents,No tech support,No online security
+2480-SQIOB,0.2048,0,2114,44.8,New customer (4 months),Month-to-month contract,Pays by electronic check
+4993-JCRGJ,0.3584,0,5471,84.3,Fiber optic internet,Month-to-month contract,No dependents
+0581-MDMPW,0.5052,0,5557,88.95,Fiber optic internet,Month-to-month contract,No dependents
+7789-CRUVC,0.2108,0,5274,94.2,Fiber optic internet,Month-to-month contract,No dependents
+0164-APGRB,0.0777,0,4589,114.9,Fiber optic internet,No dependents,Pays by electronic check
+8034-RYTVV,0.135,0,5735,84.25,Fiber optic internet,No dependents,Paperless billing
+3018-TFTSU,0.3192,1,2850,81.7,Fiber optic internet,Month-to-month contract,New customer (12 months)
+9777-IQHWP,0.0154,0,6249,93.4,Fiber optic internet,No tech support,No online backup
+6899-PPEEA,0.6001,1,4448,96.55,Fiber optic internet,Month-to-month contract,No dependents
+6701-YVNQG,0.032,0,5764,88.7,No dependents,Paperless billing,No device protection
+7649-PHJVR,0.061,0,5825,19.5,New customer (11 months),No dependents,No tech support
+9278-VZKCD,0.536,0,4428,109.1,Fiber optic internet,Month-to-month contract,No dependents
+7636-PEPNS,0.0166,0,5040,44.1,Paperless billing,No tech support,No online security
+1575-KRZZE,0.3769,0,4042,55.2,New customer (4 months),Month-to-month contract,No dependents
+8590-OHDIW,0.0073,0,4686,20.3,No tech support,No online security,No online backup
+7764-BDPEE,0.0609,0,5868,20.85,New customer (3 months),Month-to-month contract,No tech support
+9480-BQJEI,0.1362,0,6468,92.3,Fiber optic internet,No dependents,Paperless billing
+3354-OADJP,0.0768,0,2237,54.25,New customer (8 months),No dependents,No online backup
+3181-MIZBN,0.0399,0,3677,19.75,Month-to-month contract,Pays by electronic check,Relatively short tenure (16 months)
+9327-QSDED,0.2418,0,3266,43.55,New customer (8 months),Month-to-month contract,No dependents
+4892-VLANZ,0.2499,1,5600,19.8,New customer (1 month),Month-to-month contract,No dependents
+0298-XACET,0.0093,0,5396,50.2,No online security,No device protection,
+6917-FIJHC,0.0161,0,5374,26.0,No dependents,Paperless billing,No tech support
+6557-BZXLQ,0.4328,0,5610,69.65,Fiber optic internet,Month-to-month contract,No dependents
+2432-TFSMK,0.3617,0,2269,89.6,Fiber optic internet,No dependents,Relatively short tenure (18 months)
+4211-MMAZN,0.2501,1,2959,20.25,New customer (1 month),Month-to-month contract,No dependents
+4751-ERMAN,0.0417,0,4171,75.4,No dependents,Paperless billing,No tech support
+8430-TWCBX,0.0335,0,4074,20.7,No dependents,No tech support,No online security
+1942-OQFRW,0.5045,0,2785,44.0,New customer (1 month),Month-to-month contract,No dependents
+4075-JFPGR,0.2209,0,5561,93.5,Fiber optic internet,No dependents,Pays by electronic check
+3339-EAQNV,0.2349,0,6156,97.25,Fiber optic internet,No dependents,Paperless billing
+5329-KRDTM,0.0246,0,6202,77.35,No dependents,No online security,No device protection
+0307-BCOPK,0.0469,0,4336,19.05,No dependents,Relatively short tenure (16 months),No tech support
+6473-ULUHT,0.0964,0,2269,84.9,Month-to-month contract,Pays by electronic check,Relatively short tenure (16 months)
+1194-SPVSP,0.252,0,3625,19.65,New customer (1 month),Month-to-month contract,No dependents
+7249-WBIYX,0.766,1,5146,85.6,Fiber optic internet,New customer (10 months),Month-to-month contract
+2293-IJWPS,0.3302,0,6354,100.75,Fiber optic internet,No dependents,Paperless billing
+4377-VDHYI,0.0701,0,2722,90.8,Fiber optic internet,Pays by electronic check,Paperless billing
+0019-EFAEP,0.0542,0,5513,101.3,Fiber optic internet,No dependents,Paperless billing
+2480-EJWYP,0.3068,0,6019,97.8,Fiber optic internet,No dependents,Paperless billing
+8970-ANWXO,0.1816,0,3483,73.75,No dependents,Paperless billing,No online security
+8739-WWKDU,0.5753,1,4849,89.5,Fiber optic internet,Month-to-month contract,No dependents
+2171-UDMFD,0.025,0,4363,19.45,Month-to-month contract,Paperless billing,No tech support
+7036-TYDEC,0.0902,0,5902,104.0,Fiber optic internet,No dependents,Pays by electronic check
+3831-YCPUO,0.0115,0,6419,109.5,Fiber optic internet,Paperless billing,No device protection
+0121-SNYRK,0.0601,0,5052,35.4,No dependents,Paperless billing,No online backup
+3325-FUYCG,0.3484,1,3770,106.1,Fiber optic internet,No dependents,Pays by electronic check
+1952-DVVSW,0.0815,0,3509,20.1,New customer (10 months),No dependents,No tech support
+3571-DPYUH,0.0472,0,5653,94.7,Fiber optic internet,Paperless billing,No online security
+2077-MPJQO,0.7374,0,3533,75.4,Fiber optic internet,New customer (7 months),Month-to-month contract
+2391-SOORI,0.1231,1,5858,49.35,New customer (4 months),Month-to-month contract,Pays by electronic check
+4086-ATNFV,0.016,0,4522,60.8,Paperless billing,No tech support,No device protection
+3396-DKDEL,0.0168,0,4388,115.15,Fiber optic internet,Paperless billing,No device protection
+7471-MQPOS,0.0158,0,6404,72.9,Paperless billing,No online security,No device protection
+7181-OQCUT,0.4386,0,4520,103.85,Fiber optic internet,Month-to-month contract,No dependents
+3489-VSFRD,0.0346,0,4835,60.25,No dependents,Paperless billing,No online backup
+6283-GITPX,0.0029,0,4633,76.9,Paperless billing,No device protection,
+2845-HSJCY,0.7201,1,4786,87.25,Fiber optic internet,Month-to-month contract,No dependents
+7216-KAOID,0.0068,0,2446,19.5,No tech support,No online security,No online backup
+6680-WKXRZ,0.674,1,2054,74.4,New customer (3 months),Fiber optic internet,Month-to-month contract
+2346-LOCWC,0.0026,0,6186,20.5,No tech support,No online security,No online backup
+0769-MURVM,0.0055,0,6187,65.7,No device protection,,
+3374-LXDEV,0.4212,1,2226,89.4,Fiber optic internet,Month-to-month contract,No dependents
+5318-YKDPV,0.0414,0,3716,79.15,No dependents,Paperless billing,No online backup
+8190-ZTQFB,0.2257,0,5622,51.35,No dependents,Pays by electronic check,Paperless billing
+4512-ZUIYL,0.6067,1,2928,70.0,New customer (2 months),Fiber optic internet,Month-to-month contract
+3090-QFUVD,0.2508,0,2507,20.3,New customer (1 month),Month-to-month contract,No dependents
+4806-KEXQR,0.7935,1,4669,79.9,New customer (4 months),Fiber optic internet,Month-to-month contract
+2369-FEVNO,0.3144,0,4590,19.9,New customer (1 month),Month-to-month contract,No dependents
+9637-CDTKZ,0.0711,0,4965,114.1,Fiber optic internet,No dependents,Paperless billing
+2954-PIBKO,0.0214,0,5128,64.15,No dependents,Paperless billing,No online backup
+2212-LYASK,0.2102,0,2068,45.85,No dependents,Paperless billing,No tech support
+9481-SFCQY,0.0816,0,5962,59.8,Month-to-month contract,Relatively short tenure (14 months),Paperless billing
+2828-SLQPF,0.2235,0,4519,45.0,Month-to-month contract,No dependents,Paperless billing
+4647-MUZON,0.6076,0,5009,95.95,Fiber optic internet,Month-to-month contract,No dependents
+8212-DJRCH,0.3374,0,4014,90.35,New customer (5 months),Fiber optic internet,Month-to-month contract
+0516-OOHAR,0.0708,0,3411,100.35,Fiber optic internet,No tech support,No online security
+4973-RLZVI,0.045,0,5616,74.65,No dependents,No device protection,
+8089-UZWLX,0.0845,0,4113,104.05,Fiber optic internet,No dependents,No tech support
+9732-KPKBW,0.4329,1,2771,53.95,New customer (1 month),Month-to-month contract,No dependents
+9715-WZCLW,0.0333,0,4603,97.2,Fiber optic internet,Pays by electronic check,Paperless billing
+0257-KXZGU,0.0484,0,5442,62.45,Month-to-month contract,No tech support,No online security
+0707-HOVVN,0.0271,0,6024,75.5,No dependents,Paperless billing,No online security
+5501-TVMGM,0.6519,0,3255,55.25,New customer (1 month),Month-to-month contract,No dependents
+3422-LYEPQ,0.8065,1,4207,71.0,New customer (1 month),Fiber optic internet,Month-to-month contract
+2277-VWCNI,0.4821,0,3048,48.75,New customer (4 months),Month-to-month contract,No dependents
+5461-QKNTN,0.4589,0,2040,94.3,Fiber optic internet,Month-to-month contract,No dependents
+3967-KXAPS,0.0238,0,5136,92.3,No dependents,No device protection,
+6919-ELBGL,0.0747,0,6268,114.95,Fiber optic internet,No dependents,Paperless billing
+8361-LTMKD,0.7909,1,5839,74.4,New customer (4 months),Fiber optic internet,Month-to-month contract
+1131-ALZWV,0.0522,0,4147,24.6,No dependents,No tech support,No online security
+5178-LMXOP,0.9113,1,5795,95.1,New customer (1 month),Fiber optic internet,Month-to-month contract
+8992-CEUEN,0.3245,0,5084,18.85,New customer (1 month),Month-to-month contract,No dependents
+3320-VEOYC,0.7283,0,3502,95.6,Fiber optic internet,Month-to-month contract,No dependents
+3672-YITQD,0.6048,1,2987,84.1,Fiber optic internet,Month-to-month contract,No dependents
+6080-TCMYC,0.1694,0,5370,81.2,Fiber optic internet,Month-to-month contract,Pays by electronic check
+6734-FQAJX,0.0668,0,4143,105.05,Fiber optic internet,No dependents,Pays by electronic check
+1063-DHQJF,0.0126,0,5817,92.15,Fiber optic internet,Paperless billing,No online security
+3976-NLDEZ,0.2503,0,5370,20.6,New customer (1 month),Month-to-month contract,No dependents
+1729-VLAZJ,0.0221,0,2876,40.25,New customer (10 months),,
+3400-ESFUW,0.0149,1,5463,57.55,No dependents,,
+5271-YNWVR,0.1095,1,4610,113.15,Fiber optic internet,No dependents,Pays by electronic check
+1587-FKLZB,0.4624,1,4479,99.5,Fiber optic internet,Month-to-month contract,No dependents
+0958-YHXGP,0.504,0,4562,69.9,Fiber optic internet,New customer (7 months),Month-to-month contract
+1494-EJZDW,0.0086,0,2836,20.15,New customer (10 months),No tech support,No online security
+1816-FLZDK,0.4529,0,3923,29.15,New customer (1 month),Month-to-month contract,No dependents
+2075-PUEPR,0.0029,0,5248,19.35,No tech support,No online security,No online backup
+1833-TCXKK,0.4925,0,3301,107.75,Fiber optic internet,Month-to-month contract,No dependents
+1436-ZMJAN,0.4906,0,2709,67.8,New customer (10 months),Month-to-month contract,No dependents
+0106-UGRDO,0.1082,0,4216,116.0,Fiber optic internet,No dependents,Pays by electronic check
+1069-XAIEM,0.8558,1,2975,85.05,New customer (1 month),Fiber optic internet,Month-to-month contract
+4213-HKBJO,0.0197,0,3378,25.7,No dependents,No tech support,No online security
+8345-MVDYC,0.0221,0,5937,81.65,No dependents,No online backup,No device protection
+2672-OJQZP,0.4134,0,4118,44.75,New customer (1 month),Month-to-month contract,No dependents
+5136-RGMZO,0.2708,0,4443,71.05,Month-to-month contract,No dependents,Pays by electronic check
+5774-QPLTF,0.0095,0,6391,20.35,Paperless billing,No tech support,No online security
+5240-CAOYT,0.1764,0,4882,87.55,Fiber optic internet,Month-to-month contract,No dependents
+3707-GNWHM,0.7482,1,4750,74.25,New customer (1 month),Fiber optic internet,Month-to-month contract
+5159-YFPKQ,0.7511,1,5270,75.8,New customer (2 months),Fiber optic internet,Month-to-month contract
+5052-PNLOS,0.8139,1,3662,105.35,New customer (3 months),Fiber optic internet,Month-to-month contract
+6173-GOLSU,0.453,0,4228,94.65,Fiber optic internet,Month-to-month contract,No dependents
+6661-HBGWL,0.4476,1,2984,104.75,Fiber optic internet,Month-to-month contract,No dependents
+8207-VVMYB,0.0173,0,6170,26.0,No dependents,Paperless billing,No tech support
+5324-KTGCG,0.0262,0,4837,20.85,No dependents,Pays by electronic check,No tech support
+7354-OIJLX,0.6588,0,5212,75.85,Fiber optic internet,New customer (9 months),Month-to-month contract
+9286-BHDQG,0.0141,0,5041,45.25,No dependents,No device protection,
+3567-PQTSO,0.1264,0,6365,105.25,Fiber optic internet,Pays by electronic check,Paperless billing
+3197-ARFOY,0.3673,0,3524,105.0,Fiber optic internet,Month-to-month contract,No dependents
+5698-BQJOH,0.3361,1,5571,94.4,Fiber optic internet,New customer (9 months),Month-to-month contract
+1090-ESELR,0.0392,0,5534,105.5,Fiber optic internet,No dependents,
+0056-EPFBG,0.0142,0,3899,39.4,Paperless billing,Relatively short tenure (20 months),No online backup
+4955-VCWBI,0.0063,0,4882,20.0,No tech support,No online security,No online backup
+4717-GHADL,0.0579,0,5592,79.6,No dependents,Paperless billing,No online security
+0058-EVZWM,0.3739,0,5875,89.8,Fiber optic internet,Month-to-month contract,No dependents
+7218-HKQFK,0.8408,1,3715,94.2,New customer (2 months),Fiber optic internet,Month-to-month contract
+5057-RKGLH,0.0088,0,5352,20.35,New customer (9 months),No tech support,No online security
+2309-OSFEU,0.4634,1,2529,33.9,New customer (10 months),Month-to-month contract,No dependents
+3429-IFLEM,0.0099,0,4846,77.35,No dependents,No device protection,
+1550-LOAHA,0.3471,1,4017,84.15,Fiber optic internet,Month-to-month contract,No dependents
+1400-MMYXY,0.8965,1,2715,105.9,New customer (3 months),Fiber optic internet,Month-to-month contract
+7503-QQRVF,0.4628,1,2076,74.3,Fiber optic internet,Month-to-month contract,No dependents
+7504-UWHNB,0.367,0,3080,69.75,Fiber optic internet,Month-to-month contract,No dependents
+9565-JSNFM,0.1561,1,5437,70.45,Fiber optic internet,No dependents,Paperless billing
+4735-BJKOU,0.0117,0,3915,20.15,No dependents,No tech support,No online security
+3580-GICBM,0.0046,0,6201,24.2,Paperless billing,No tech support,No online security
+7632-YUTXB,0.0105,0,2010,20.05,No tech support,No online security,No online backup
+9412-ARGBX,0.0558,1,2459,95.5,Fiber optic internet,No dependents,Paperless billing
+9576-ANLXO,0.6736,1,2876,69.55,New customer (3 months),Fiber optic internet,Month-to-month contract
+1110-KYLGQ,0.2394,0,5331,108.25,Fiber optic internet,Month-to-month contract,No dependents
+8696-JKZNU,0.4568,1,5859,76.25,Fiber optic internet,Month-to-month contract,No dependents
+8757-TFHHJ,0.4136,0,2978,49.8,New customer (1 month),Month-to-month contract,No dependents
+2955-BJZHG,0.5569,1,5174,80.85,Fiber optic internet,Month-to-month contract,No dependents
+9048-JVYVF,0.6359,1,3520,69.35,New customer (3 months),Month-to-month contract,No dependents
+0682-USIXD,0.5401,0,2937,86.05,Fiber optic internet,Month-to-month contract,No dependents
+3884-UEBXB,0.0046,0,6314,36.15,No tech support,,
+1776-SPBWV,0.0114,0,2272,20.1,Paperless billing,No tech support,No online security
+9050-QLROH,0.5492,1,2931,90.7,Fiber optic internet,Month-to-month contract,No dependents
+2925-VDZHY,0.0051,0,4641,88.7,No device protection,,
+9512-UIBFX,0.5285,1,4643,95.15,Fiber optic internet,Month-to-month contract,No dependents
+8676-TRMJS,0.6721,1,3190,75.0,New customer (3 months),Fiber optic internet,Month-to-month contract
+3334-CTHOL,0.575,1,2041,49.95,New customer (1 month),Month-to-month contract,No dependents
+6331-LWDTQ,0.5063,1,2457,72.15,New customer (10 months),Month-to-month contract,No dependents
+3847-BAERP,0.1644,0,4905,20.9,New customer (10 months),Month-to-month contract,No dependents
+4709-LKHYG,0.0619,0,3800,20.0,No dependents,Pays by electronic check,No tech support
+8621-MNIHH,0.589,1,3369,94.25,Fiber optic internet,Month-to-month contract,No dependents
+8884-ADFVN,0.8296,1,2016,101.95,Fiber optic internet,New customer (7 months),Month-to-month contract
+2885-HIJDH,0.0062,0,4667,86.9,No online backup,No device protection,
+8570-KLJYJ,0.0581,0,4462,54.45,No dependents,No tech support,No online backup
+9339-FIIJL,0.0323,0,6450,85.95,No dependents,No online security,No device protection
+6223-DHJGV,0.0318,0,5956,20.65,No dependents,Paperless billing,No tech support
+0959-WHOKV,0.2241,0,2887,99.0,Fiber optic internet,No dependents,Pays by electronic check
+9610-WCESF,0.0257,0,6344,43.9,No dependents,Pays by electronic check,No online backup
+9279-CJEOJ,0.6107,0,5691,95.4,Fiber optic internet,Month-to-month contract,No dependents
+2985-FMWYF,0.6722,0,4861,93.5,Fiber optic internet,Month-to-month contract,No dependents
+3540-RZJYU,0.4203,1,5829,86.2,Fiber optic internet,Month-to-month contract,No dependents
+2522-WLNSF,0.0823,0,2225,64.2,No dependents,No online security,No online backup
+6861-XWTWQ,0.8286,1,2487,99.25,Fiber optic internet,New customer (7 months),Month-to-month contract
+8735-NBLWT,0.0294,0,4195,20.4,New customer (9 months),Month-to-month contract,No tech support
+1744-JHKYS,0.1449,0,3421,24.7,Month-to-month contract,No dependents,Pays by electronic check
+0841-NULXI,0.7456,1,3958,35.55,New customer (1 month),Month-to-month contract,No dependents
+4016-BJKTZ,0.1732,0,4398,108.9,Fiber optic internet,No dependents,Pays by electronic check
+9298-WGMRW,0.0724,0,4697,115.5,Fiber optic internet,No dependents,Paperless billing
+7893-IXHRQ,0.3253,1,5636,20.55,New customer (1 month),Month-to-month contract,No dependents
+8785-CJSHH,0.5542,0,6213,99.8,Fiber optic internet,Month-to-month contract,No dependents
+7654-YWJUF,0.105,0,4382,84.25,Fiber optic internet,No dependents,Paperless billing
+8909-BOLNL,0.1292,0,2088,21.2,New customer (3 months),No dependents,No tech support
+9919-FZDED,0.043,0,4671,84.1,No dependents,Paperless billing,No tech support
+0322-CHQRU,0.4984,1,3478,45.35,New customer (2 months),Month-to-month contract,No dependents
+3587-PMCOY,0.4461,0,4614,98.9,Fiber optic internet,New customer (10 months),No dependents
+0655-RBDUG,0.7095,1,2561,98.05,Fiber optic internet,New customer (7 months),Month-to-month contract
+0983-TATYJ,0.0851,0,4935,51.45,No dependents,Paperless billing,No online security
+5650-YLIBA,0.4586,0,3031,81.15,Fiber optic internet,Month-to-month contract,No dependents
+5144-TVGLP,0.5141,0,3654,94.75,Fiber optic internet,Month-to-month contract,No dependents
+3569-EDBPQ,0.3813,0,2198,84.35,Fiber optic internet,Month-to-month contract,No dependents
+4945-RVMTE,0.2289,0,3354,59.55,Month-to-month contract,No dependents,Paperless billing
+3511-BFTJW,0.004,0,4710,38.5,No tech support,No device protection,
+5537-UXXVS,0.1116,0,4137,19.25,Month-to-month contract,No dependents,Relatively short tenure (20 months)
+8782-NUUOL,0.0402,0,4807,79.0,No dependents,No online backup,No device protection
+2865-TCHJW,0.842,1,5808,89.2,New customer (4 months),Fiber optic internet,Month-to-month contract
+9931-KGHOA,0.1186,0,5928,55.0,Month-to-month contract,No dependents,No tech support
+3071-MVJCD,0.0177,0,4162,82.3,No dependents,No device protection,
+7279-BUYWN,0.4686,1,3380,113.2,Fiber optic internet,Month-to-month contract,No dependents
+3756-VNWDH,0.3057,0,4368,100.75,Fiber optic internet,No dependents,Pays by electronic check
+1395-OFUWC,0.0394,0,4741,29.3,Month-to-month contract,No tech support,No online security
+4223-BKEOR,0.0816,0,3302,64.85,No dependents,Relatively short tenure (21 months),No tech support
+0040-HALCW,0.003,0,6393,20.4,No tech support,No online security,No online backup
+7124-UGSUR,0.2908,1,4412,104.4,Fiber optic internet,No dependents,Paperless billing
+7395-XWZOY,0.2169,0,4481,55.0,Month-to-month contract,No dependents,Paperless billing
+5440-VHLUL,0.1567,0,6247,105.2,Fiber optic internet,No dependents,Paperless billing
+4706-DGAHW,0.5154,0,4576,45.2,New customer (1 month),Month-to-month contract,No dependents
+8166-ORCHU,0.2157,0,4414,93.55,Fiber optic internet,No dependents,Pays by electronic check
+3978-YNKDD,0.0045,0,2654,20.85,Relatively short tenure (19 months),No tech support,No online security
+7198-GLXTC,0.7426,1,5239,79.0,New customer (2 months),Fiber optic internet,Month-to-month contract
+6366-XIVKZ,0.0813,0,5916,63.15,Month-to-month contract,Relatively short tenure (13 months),Paperless billing
+5133-POWUA,0.4931,0,2614,45.8,New customer (1 month),Month-to-month contract,No dependents
+8400-WZICQ,0.0265,0,4149,55.7,Month-to-month contract,Pays by electronic check,No tech support
+5382-SOYZL,0.6781,0,3729,95.1,Fiber optic internet,Month-to-month contract,No dependents
+1989-PRJHP,0.5917,1,2377,75.5,Fiber optic internet,Month-to-month contract,No dependents
+4154-AQUGT,0.486,1,3861,89.05,Fiber optic internet,Month-to-month contract,No dependents
+0980-FEXWF,0.0218,0,3386,50.35,No tech support,No online security,No online backup
+5845-BZZIB,0.0038,0,4517,20.1,No tech support,No online security,No online backup
+4840-ORQXB,0.4387,0,5128,104.75,Fiber optic internet,Month-to-month contract,No dependents
+0295-PPHDO,0.8821,1,5962,95.45,New customer (1 month),Fiber optic internet,Month-to-month contract
+8775-ERLNB,0.8114,0,2968,74.3,New customer (1 month),Fiber optic internet,Month-to-month contract
+0376-YMCJC,0.5355,1,4359,90.6,Fiber optic internet,Month-to-month contract,No dependents
+7410-YTJIK,0.5047,1,2872,75.45,Fiber optic internet,New customer (7 months),Month-to-month contract
+9927-DSWDF,0.496,0,2429,104.6,Fiber optic internet,Month-to-month contract,No dependents
+6681-ZSEXG,0.0354,0,5477,59.5,No dependents,No tech support,No online security
+5702-KVQRD,0.0383,0,4668,82.55,No dependents,Pays by electronic check,Paperless billing
+8711-LOBKY,0.0026,0,6144,19.85,No tech support,No online security,No online backup
+9692-TUSXH,0.5519,1,5581,96.05,Fiber optic internet,Month-to-month contract,No dependents
+4012-YCFAI,0.018,0,6174,61.35,No dependents,Paperless billing,
+8455-HIRAQ,0.2424,0,4909,44.45,New customer (8 months),Month-to-month contract,No dependents
+7853-WNZSY,0.315,0,5809,19.75,New customer (1 month),Month-to-month contract,No dependents
+0390-DCFDQ,0.3822,1,3964,70.45,New customer (1 month),Fiber optic internet,Month-to-month contract
+6421-SZVEM,0.0606,0,5802,82.85,Fiber optic internet,Paperless billing,No tech support
+3094-JOJAI,0.3995,0,2643,74.15,Fiber optic internet,Month-to-month contract,No dependents
+4873-ILOLJ,0.5915,1,5546,90.35,Fiber optic internet,Month-to-month contract,No dependents
+8181-YHCMF,0.0381,0,4864,60.3,No dependents,No online security,No device protection
+3324-OIRTO,0.0324,0,6101,104.65,Fiber optic internet,Paperless billing,No tech support
+9135-HSWOC,0.0031,0,5431,19.7,Paperless billing,No tech support,No online security
+2272-WUSPA,0.1273,0,4848,110.75,Fiber optic internet,No dependents,Pays by electronic check
+4627-MIHJH,0.0498,0,4948,110.25,Fiber optic internet,No dependents,No online backup
+3896-RCYYE,0.1733,0,5990,53.4,Month-to-month contract,No dependents,Paperless billing
+6729-GDNGC,0.3891,0,3111,80.7,Fiber optic internet,Month-to-month contract,No dependents
+9945-PSVIP,0.0068,0,2289,18.7,Paperless billing,No tech support,No online security
+4137-JOPHL,0.0778,0,5306,89.7,Fiber optic internet,No dependents,Paperless billing
+2720-FVBQP,0.2427,0,3061,48.95,New customer (6 months),Month-to-month contract,Paperless billing
+7854-EKTJL,0.1171,1,2843,19.6,New customer (2 months),Month-to-month contract,Pays by electronic check
+1133-KXCGE,0.0446,0,2910,20.1,No dependents,Relatively short tenure (18 months),No tech support
+6048-QBXKL,0.5483,0,2069,56.55,New customer (2 months),Month-to-month contract,No dependents
+6338-AVWCY,0.6509,1,4710,40.15,New customer (3 months),Month-to-month contract,No dependents
+0013-MHZWF,0.1054,0,5108,69.4,New customer (9 months),Month-to-month contract,Paperless billing
+9804-ICWBG,0.7576,1,3349,69.9,New customer (1 month),Fiber optic internet,Month-to-month contract
+2368-GAKKQ,0.0578,0,6424,113.65,Fiber optic internet,No dependents,Paperless billing
+4829-AUOAX,0.3657,1,2712,96.05,Fiber optic internet,Month-to-month contract,No dependents
+7876-BEUTG,0.3049,0,2577,48.8,Month-to-month contract,No dependents,Relatively short tenure (15 months)
+6349-JDHQP,0.0108,0,6338,19.85,No dependents,No tech support,No online security
+3063-QFSZL,0.6519,1,2294,55.4,New customer (1 month),Month-to-month contract,No dependents
+9142-XMYJH,0.0683,0,5227,19.35,Month-to-month contract,No dependents,No tech support
+2609-IAICY,0.8123,1,2756,77.15,New customer (1 month),Fiber optic internet,Month-to-month contract
+8626-PTQGE,0.0289,0,5388,60.05,No dependents,Paperless billing,
+0230-UBYPQ,0.0436,0,5089,36.1,No dependents,No online backup,
+6814-ZPWFQ,0.0347,0,5896,25.0,No dependents,No tech support,No online security
+5921-NGYRH,0.1993,0,5018,73.55,Fiber optic internet,Month-to-month contract,No dependents
+7803-XOCCZ,0.0513,0,6099,84.05,Fiber optic internet,Month-to-month contract,Paperless billing
+1459-QNFQT,0.0296,0,4031,59.5,No dependents,No online backup,No device protection
+3948-FVVRP,0.0546,0,2848,54.8,New customer (9 months),Month-to-month contract,No online security
+0923-PNFUB,0.7141,1,4852,83.75,New customer (3 months),Fiber optic internet,Month-to-month contract
+4654-ULTTN,0.0285,0,6447,74.8,No dependents,Paperless billing,No online backup
+5628-FCGYG,0.6199,0,4649,84.1,Fiber optic internet,Month-to-month contract,No dependents
+0506-LVNGN,0.6669,1,4028,75.55,New customer (5 months),Fiber optic internet,Month-to-month contract
+4329-YPDDQ,0.3508,0,2102,108.2,Fiber optic internet,Month-to-month contract,No dependents
+9866-OCCKE,0.0821,0,6010,109.75,Fiber optic internet,No dependents,Paperless billing
+0794-YVSGE,0.0018,0,5265,20.3,No tech support,No online security,No online backup
+4342-HENTK,0.7599,1,2189,70.65,New customer (2 months),Fiber optic internet,Month-to-month contract
+5934-TSSAU,0.1365,0,5903,75.3,Fiber optic internet,Month-to-month contract,Paperless billing
+9986-BONCE,0.2368,1,5822,20.95,New customer (4 months),Month-to-month contract,No dependents
+5301-GAUUY,0.3642,1,5974,80.35,Fiber optic internet,Month-to-month contract,No dependents
+0725-CXOTM,0.1046,0,4844,89.65,No dependents,Paperless billing,No online backup
+2843-CQMEG,0.181,0,2911,49.7,Month-to-month contract,No dependents,Paperless billing
+5600-PDUJF,0.3894,0,5552,49.5,New customer (6 months),Month-to-month contract,No dependents
+4500-HKANN,0.0481,0,3464,59.7,No dependents,No online security,Relatively short tenure (23 months)
+1862-QRWPE,0.0126,0,4124,20.65,No dependents,No tech support,No online security
+2155-AMQRX,0.1903,0,2885,54.9,Month-to-month contract,No dependents,Paperless billing
+0823-HSCDJ,0.3611,1,5597,49.15,Month-to-month contract,No dependents,Pays by electronic check
+4090-KPJIP,0.8033,0,3641,74.95,New customer (3 months),Fiber optic internet,Month-to-month contract
+2737-YNGYW,0.7467,1,2856,80.55,New customer (2 months),Fiber optic internet,Month-to-month contract
+5619-XZZKR,0.1257,0,2195,19.95,New customer (4 months),No dependents,No tech support
+6047-YHPVI,0.3667,1,2454,69.7,New customer (5 months),Fiber optic internet,Month-to-month contract
+8375-DKEBR,0.7643,1,3438,69.6,New customer (1 month),Fiber optic internet,Month-to-month contract
+7729-XBTWX,0.0029,0,4485,19.75,Paperless billing,No tech support,No online security
+4983-CLMLV,0.4424,0,4044,102.7,Fiber optic internet,Month-to-month contract,No dependents
+9227-LUNBG,0.6145,1,5768,24.6,New customer (1 month),Month-to-month contract,No dependents
+2758-RNWXS,0.1753,0,4446,89.2,Fiber optic internet,No dependents,Pays by electronic check
+7055-HNEOJ,0.4764,0,2662,55.8,New customer (3 months),Month-to-month contract,No dependents
+7134-MJPDY,0.1862,0,5569,102.85,Fiber optic internet,No dependents,Paperless billing
+4560-WQAQW,0.0434,0,4244,68.7,No dependents,No online backup,
+8532-UEFWH,0.0043,0,4676,25.75,No tech support,No online security,No online backup
+8541-QVFKM,0.6636,0,5777,73.5,Fiber optic internet,New customer (8 months),Month-to-month contract
+7129-ACFOG,0.557,0,2182,53.8,New customer (5 months),Month-to-month contract,No dependents
+2495-INZWQ,0.7792,1,5605,44.55,New customer (4 months),Month-to-month contract,No dependents
+0263-FJTQO,0.0102,0,4022,70.5,Paperless billing,No online backup,
+0181-RITDD,0.0107,0,5298,108.15,Fiber optic internet,No device protection,
+8241-JUIQO,0.0184,0,4559,19.45,No dependents,No tech support,No online security
+0913-XWSCN,0.1105,0,6411,85.5,Fiber optic internet,Month-to-month contract,No tech support
+2159-TURXX,0.2299,0,2483,20.05,New customer (5 months),Month-to-month contract,No dependents
+6461-PPAXN,0.0604,0,4858,54.95,No dependents,Paperless billing,No online backup
+1452-KIOVK,0.1674,0,4459,89.1,Fiber optic internet,Month-to-month contract,Paperless billing
+1139-WUOAH,0.0423,0,5461,53.35,No dependents,No online security,No online backup
+3207-OYBWH,0.422,1,6259,95.25,Fiber optic internet,Month-to-month contract,No dependents
+8347-GDTMP,0.0105,0,5113,19.45,No dependents,No tech support,No online security
+9909-DFRJA,0.1571,0,3834,95.85,Fiber optic internet,No dependents,Paperless billing
+6383-ZTSIW,0.1723,0,4599,99.1,Fiber optic internet,No dependents,No tech support
+5438-QMDDL,0.311,0,3652,59.8,Month-to-month contract,No dependents,Paperless billing
+8914-RBTSB,0.5166,1,4115,93.8,Fiber optic internet,Month-to-month contract,No dependents
+6164-HXUGH,0.0732,0,5060,19.85,New customer (6 months),Month-to-month contract,No tech support
+6900-RBKER,0.1271,0,5386,89.45,Fiber optic internet,No dependents,Paperless billing
+1492-QGCLU,0.057,0,5957,85.7,Month-to-month contract,Pays by electronic check,No online backup
+6664-FPDAC,0.2799,1,4060,111.95,Fiber optic internet,No dependents,Pays by electronic check
+1088-AUUZZ,0.008,0,5314,75.85,Paperless billing,,
+6651-AZVTJ,0.6477,1,6088,99.8,Fiber optic internet,Month-to-month contract,No dependents
+8219-VYBVI,0.0035,0,4295,25.0,No tech support,No online security,No online backup
+0310-MVLET,0.5469,1,5612,99.15,Fiber optic internet,Month-to-month contract,No dependents
+7233-IOQNP,0.1082,0,5409,34.0,Month-to-month contract,No dependents,No online backup
+7311-MQJCH,0.1681,0,2575,19.55,New customer (5 months),No dependents,Pays by electronic check
+9256-JTBNZ,0.1231,0,4188,20.3,Month-to-month contract,New customer (11 months),No dependents
+8713-IGZSO,0.3091,0,5983,24.85,New customer (2 months),Month-to-month contract,No dependents
+6821-BUXUX,0.5637,1,2110,96.65,Fiber optic internet,Month-to-month contract,No dependents
+9114-DPSIA,0.0039,0,4237,81.0,No device protection,,
+4501-UYKBC,0.0866,0,3856,69.1,No dependents,Paperless billing,No online security
+2798-NYLMZ,0.0802,0,4111,108.55,Fiber optic internet,No dependents,Paperless billing
+6711-VTNRE,0.3732,1,2558,87.55,Fiber optic internet,Month-to-month contract,No dependents
+5966-EMAZU,0.1825,0,4576,108.5,Fiber optic internet,No dependents,Paperless billing
+3627-FHKBK,0.5326,1,3244,75.3,New customer (1 month),Fiber optic internet,Month-to-month contract
+7861-UVUFT,0.6429,1,4003,84.3,Fiber optic internet,Month-to-month contract,No dependents
+9824-QCJPK,0.036,0,4175,20.0,No dependents,No tech support,No online security
+7816-VGHTO,0.0373,0,2866,40.55,New customer (6 months),No online security,No device protection
+3794-NFNCH,0.2191,0,4715,50.0,Month-to-month contract,No dependents,Paperless billing
+3877-JRJIP,0.718,1,4017,59.85,New customer (1 month),Month-to-month contract,No dependents
+5228-EXCET,0.5941,1,5964,80.85,Fiber optic internet,Month-to-month contract,No dependents
+6248-BSHKG,0.0051,0,5897,20.4,No tech support,No online security,No online backup
+8915-NNTRC,0.0159,0,4351,107.7,Fiber optic internet,Paperless billing,
+3470-OBUET,0.0042,0,4188,74.0,,,
+3229-USWAR,0.0808,0,3570,79.95,No dependents,Paperless billing,No online backup
+1927-QEWMY,0.0084,0,6302,20.5,No dependents,No tech support,No online security
+6374-AFWOX,0.0143,0,2680,65.65,No dependents,No device protection,
+7912-SYRQT,0.5863,1,5514,75.1,Fiber optic internet,New customer (7 months),Month-to-month contract
+2070-FNEXE,0.1048,1,4419,76.45,Fiber optic internet,New customer (7 months),Month-to-month contract
+5803-NQJZO,0.018,0,5242,67.8,No dependents,Paperless billing,No device protection
+5651-YLPRD,0.1776,0,4970,86.1,Fiber optic internet,Month-to-month contract,Pays by electronic check
+1271-UODNO,0.0372,0,2380,53.85,No dependents,Paperless billing,No online security
+5014-WUQMG,0.0484,0,5793,96.1,Fiber optic internet,Pays by electronic check,Paperless billing
+5889-JTMUL,0.5544,1,5863,95.05,Fiber optic internet,Month-to-month contract,No dependents
+0788-DXBFY,0.0505,0,4801,19.55,No dependents,Pays by electronic check,Paperless billing
+2669-QVCRG,0.2671,0,2299,81.3,Fiber optic internet,Month-to-month contract,No dependents
+6630-UJZMY,0.8769,0,5251,83.25,New customer (4 months),Fiber optic internet,Month-to-month contract
+5061-PBXFW,0.0199,0,2649,61.4,Month-to-month contract,,
+2700-LUEVA,0.251,0,2791,20.75,New customer (1 month),Month-to-month contract,No dependents
+3865-ZFZIB,0.0207,0,5596,19.65,No dependents,Relatively short tenure (19 months),No tech support
+0471-ARVMX,0.3191,0,5061,104.85,Fiber optic internet,No dependents,Pays by electronic check
+8985-OOPOS,0.3014,0,2900,74.1,New customer (1 month),No dependents,No online security
+0719-SYFRB,0.2265,1,5670,61.65,Month-to-month contract,New customer (12 months),No dependents
+0447-BEMNG,0.2057,1,4926,45.3,Month-to-month contract,No dependents,Paperless billing
+5630-AHZIL,0.1221,0,5613,64.5,New customer (3 months),Month-to-month contract,Paperless billing
+2190-BCXEC,0.3396,0,5257,78.85,Fiber optic internet,Month-to-month contract,No dependents
+1559-DTODC,0.3087,0,3784,25.15,Month-to-month contract,No dependents,Paperless billing
+3244-DCJWY,0.7578,1,4133,70.25,New customer (1 month),Fiber optic internet,Month-to-month contract
+3967-VQOGC,0.0039,0,5847,24.9,Paperless billing,No tech support,No online security
+0265-PSUAE,0.1511,0,3337,100.7,Fiber optic internet,Month-to-month contract,Relatively short tenure (16 months)
+1622-HSHSF,0.3142,0,5607,19.55,New customer (1 month),Month-to-month contract,No dependents
+9867-XOBQA,0.0088,0,3461,53.15,Relatively short tenure (21 months),No device protection,
+6773-LQTVT,0.0787,0,4107,35.65,Month-to-month contract,Paperless billing,No tech support
+4332-MUOEZ,0.1777,0,2574,94.3,Fiber optic internet,No dependents,Relatively short tenure (20 months)
+0023-XUOPT,0.6285,1,2973,94.1,Fiber optic internet,Month-to-month contract,No dependents
+6543-CPZMK,0.5332,1,2573,29.95,New customer (9 months),Month-to-month contract,No dependents
+6418-HNFED,0.0394,0,5340,83.25,No dependents,Paperless billing,No device protection
+1036-GUDCL,0.0299,0,5275,79.05,Month-to-month contract,Paperless billing,
+4818-QIUFN,0.4864,1,4997,79.15,Fiber optic internet,Month-to-month contract,No dependents
+0778-NELLA,0.4686,1,5352,34.7,New customer (9 months),Month-to-month contract,No dependents
+7495-OOKFY,0.2585,1,5302,80.65,Fiber optic internet,New customer (8 months),Month-to-month contract
+4737-HOBAX,0.0443,0,4073,79.8,No dependents,No online security,No online backup
+7919-ZODZZ,0.0603,0,5289,65.9,New customer (10 months),Paperless billing,No tech support
+2988-PLAHS,0.52,0,2754,69.95,New customer (3 months),No dependents,Pays by electronic check
+9067-SQTNS,0.0063,0,2471,20.6,No tech support,No online security,No online backup
+6483-OATDN,0.0817,0,2545,51.3,New customer (8 months),Month-to-month contract,Paperless billing
+5469-CTCWN,0.2954,1,4334,106.0,Fiber optic internet,No dependents,Pays by electronic check
+3524-WQDSG,0.1887,0,3280,99.3,Fiber optic internet,Month-to-month contract,Paperless billing
+6968-URWQU,0.11,0,4928,56.35,No dependents,Paperless billing,No tech support
+8601-QACRS,0.546,1,2353,50.6,New customer (5 months),Month-to-month contract,No dependents
+8690-UPCZI,0.0204,0,4459,69.05,No online backup,,
+5331-RGMTT,0.5376,0,4011,99.05,Fiber optic internet,Month-to-month contract,No dependents
+1357-BIJKI,0.4298,0,5154,98.25,Fiber optic internet,No dependents,Pays by electronic check
+2088-IEBAU,0.0385,0,5531,88.15,No dependents,Pays by electronic check,Paperless billing
+0679-IDSTG,0.8115,1,4568,69.25,New customer (1 month),Fiber optic internet,Month-to-month contract
+6519-ZHPXP,0.0115,0,4183,108.3,Fiber optic internet,Paperless billing,No device protection
+2101-RANCD,0.3967,0,5832,73.1,Fiber optic internet,Month-to-month contract,No dependents
+4029-HPFVY,0.6721,0,4275,70.3,New customer (3 months),Fiber optic internet,Month-to-month contract
+1015-OWJKI,0.2496,0,5279,19.05,New customer (1 month),Month-to-month contract,No dependents
+8314-HTWVE,0.0093,0,3973,19.85,New customer (7 months),No tech support,No online security
+5357-TZHPP,0.6488,1,5745,84.4,Fiber optic internet,New customer (9 months),Month-to-month contract
+8727-XDPUD,0.0543,0,5658,35.8,No dependents,No tech support,No online security
+9073-ZZIAY,0.0316,0,5769,86.1,No dependents,Pays by electronic check,No device protection
+5181-OABFK,0.0057,0,4173,61.3,Paperless billing,No tech support,No device protection
+3812-LRZIR,0.0094,0,2645,24.5,Pays by electronic check,No tech support,No online security
+5204-HMGYF,0.0191,0,4567,87.2,Paperless billing,No device protection,
+9950-MTGYX,0.0064,0,2948,20.3,Paperless billing,No tech support,No online security
+3675-EQOZA,0.2315,0,5597,20.65,New customer (5 months),Month-to-month contract,No dependents
+3646-ITDGM,0.01,0,4831,19.7,No dependents,No tech support,No online security
+3913-FCUUW,0.004,0,4463,70.45,Paperless billing,No device protection,
