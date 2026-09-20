@@ -1,5 +1,33 @@
 # Customer Churn Prediction and Retention Revenue Model
 
+# Customer Churn Prediction and Retention Revenue Model
+
+**Live app:** <https://customer-churn-retention-model.streamlit.app/>
+
+Most churn projects stop at an accuracy score. This one answers the business
+question: given a limited retention budget, which customers should we contact,
+and does the campaign return more than it costs?
+
+![App](reports/app_screenshot.png)
+
+## Headline results (1,409 held-out customers, 100-customer budget)
+- Calibrated logistic regression: ROC-AUC 0.853, PR-AUC 0.662 (baseline 0.265).
+- Ranking by expected profit instead of churn risk raised campaign ROI from
+  144.5% to 203.4% (net profit $14,485 to $18,412); a random list loses money.
+- Survival analysis: month-to-month customers have a median lifetime of 35
+  months; one-year contract protection fades over time.
+- Streamlit app with SHAP-based reasons for every flagged customer.
+
+## How to run
+pip install -r requirements.txt
+streamlit run app/app.py
+
+## Limitations
+Offer success rate, margin and offer cost are assumptions (tested in a
+sensitivity analysis) and should be measured with an A/B test. The model
+predicts who will churn, not who will respond to an offer (uplift modelling).
+Survival levels may be optimistic because the data is a snapshot.
+
 ## Business problem
 Acquiring a new customer costs more than keeping one. A retention team can only
 contact a limited number of customers each week, so the goal is not just to
@@ -137,4 +165,4 @@ churned are treated as censored).
 
   
 ## Status
-Phase 6 of 7 complete.
+All 7 Phases  complete.
